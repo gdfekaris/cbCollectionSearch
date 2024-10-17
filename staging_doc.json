@@ -1,0 +1,47 @@
+{
+  "ref_num": null,
+  "title": "Tribe",
+  "alphabetized_title": "Tribe",
+  "issue": "001",
+  "publisher": [
+    "Image"
+  ],
+  "print_run": 1,
+  "year_published": "1993",
+  "month_published": "March",
+  "cover_art": {
+    "pencil": [],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Larry Stroman"],
+    "ink": ["Larry Stroman"],
+    "color": ["Wendy Founts"],
+    "letters": ["Mike Heisler"]
+  },
+  "writer": ["Larry Stroman", "Todd Johnson"],
+  "editor": [],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [
+      "direct"
+    ],
+    "other_notable_criteria": ["gold embossed cover","90s cover enhancement"
+    ],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": null,
+    "grade_cert": null
+  }
+}

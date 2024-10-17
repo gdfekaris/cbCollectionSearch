@@ -1,0 +1,4555 @@
+[
+  {
+    "The Amazing Spider-Man": [
+      {
+        "ref_num": null,
+        "title": "The Amazing Spider-Man",
+        "alphabetized_title": "Amazing Spider-Man",
+        "issue": "301",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1988",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Gregory Wright"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "David Michelinie"
+        ],
+        "editor": [
+          "Glen Herdling",
+          "Joey Cavalieri",
+          "Tom Defalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Todd McFarlane"
+            ],
+            "placement": [
+              "first page"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Amazing Spider-Man",
+        "alphabetized_title": "Amazing Spider-Man",
+        "issue": "361",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Joe Rosen"
+          ]
+        },
+        "writer": [
+          "David Michelinie"
+        ],
+        "editor": [
+          "Eric Fein",
+          "Danny Fingeroth",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first full appearance of Carnage"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Amazing Spider-Man",
+        "alphabetized_title": "Amazing Spider-Man",
+        "issue": "361",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Joe Rosen"
+          ]
+        },
+        "writer": [
+          "David Michelinie"
+        ],
+        "editor": [
+          "Eric Fein",
+          "Danny Fingeroth",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first full appearance of Carnage"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Amazing Spider-Man",
+        "alphabetized_title": "Amazing Spider-Man",
+        "issue": "362",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mark Bagley"
+          ],
+          "ink": [
+            "Randy Emberlin"
+          ],
+          "color": [
+            "Renee Witterstaetter",
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "David Michelinie"
+        ],
+        "editor": [
+          "Eric Fein",
+          "Danny Fingeroth",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      }
+    ]
+  },
+  {
+    "Batman": [
+      {
+        "ref_num": null,
+        "title": "Batman",
+        "alphabetized_title": "Batman",
+        "issue": "404",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "February",
+        "cover_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Dennis O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batman Year One - Chapter One",
+            "Batman origin story",
+            "Iconic story by Frank Miller",
+            "Iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Batman",
+        "alphabetized_title": "Batman",
+        "issue": "405",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Dennis O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batman Year One - Chapter Two",
+            "Batman origin story",
+            "Iconic story by Frank Miller",
+            "Iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Batman",
+        "alphabetized_title": "Batman",
+        "issue": "406",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Dennis O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batman Year One - Chapter Three",
+            "Batman origin story",
+            "Iconic story by Frank Miller",
+            "Iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Batman",
+        "alphabetized_title": "Batman",
+        "issue": "407",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Dennis O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batman Year One - Chapter Four",
+            "Batman origin story",
+            "Iconic story by Frank Miller",
+            "Iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Batman",
+        "alphabetized_title": "Batman",
+        "issue": "407",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Mazzucchelli"
+          ],
+          "ink": [
+            "Dave Mazzucchelli"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Dennis O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Frank Miller"
+            ],
+            "placement": [
+              "front cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batman Year One - Chapter Four",
+            "Batman origin story",
+            "Iconic story by Frank Miller",
+            "Iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.4",
+          "grader": "CGC",
+          "grade_cert": "2680093008"
+        }
+      }
+    ]
+  },
+  {
+    "The Batman Adventures": [
+      {
+        "ref_num": null,
+        "title": "The Batman Adventures",
+        "alphabetized_title": "Batman Adventures",
+        "issue": "012",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "September",
+        "cover_art": {
+          "pencil": [
+            "Mike Parobeck"
+          ],
+          "ink": [
+            "Rick Burchett"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mike Parobeck"
+          ],
+          "ink": [
+            "Rich Burchett"
+          ],
+          "color": [
+            "Rick Taylor"
+          ],
+          "letters": [
+            "Tim Harkins"
+          ]
+        },
+        "writer": [
+          "Kelly Puckett"
+        ],
+        "editor": [
+          "Scott Peterson",
+          "Darren Vincenzo"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Harley Quinn in comic book"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Batgirl Day One story",
+            "iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Batman Adventures",
+        "alphabetized_title": "Batman Adventures",
+        "issue": "nn Mad love",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [
+            "Bruce Timm"
+          ],
+          "ink": [
+            "Bruce Timm"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Bruce Timm"
+          ],
+          "ink": [
+            "Bruce Timm"
+          ],
+          "color": [
+            "Rick Taylor",
+            "Bruce Timm"
+          ],
+          "letters": [
+            "Tim Harkins"
+          ]
+        },
+        "writer": [
+          "Paul Dini",
+          "Bruce Timm"
+        ],
+        "editor": [
+          "Scott Peterson",
+          "Darren Vincenzo"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "Prestige edition"
+          ],
+          "other_notable_criteria": [
+            "origin of Harley Quinn",
+            "excellent single-issue story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Black Panther (2nd series)": [
+      {
+        "ref_num": null,
+        "title": "Black Panther (2nd series)",
+        "alphabetized_title": "Black Panther (2nd series)",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1998",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Mark Texeira"
+          ],
+          "ink": [
+            "Mark Texeira"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mark Texeira"
+          ],
+          "ink": [
+            "Mark Texeira"
+          ],
+          "color": [
+            "Brian Haberlin"
+          ],
+          "letters": [
+            "Richard Starkings"
+          ]
+        },
+        "writer": [
+          "Christopher J. Priest"
+        ],
+        "editor": [
+          "Joe Quesada"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Dora Milaje (Group)",
+            "Okoye",
+            "Nakia Shauku",
+            "Zuri"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Black Panther (2nd series)",
+        "alphabetized_title": "Black Panther (2nd series)",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1998",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Mark Texeira"
+          ],
+          "ink": [
+            "Mark Texeira"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Mark Texeira"
+          ],
+          "ink": [
+            "Mark Texeira"
+          ],
+          "color": [
+            "Brian Haberlin"
+          ],
+          "letters": [
+            "Richard Starkings"
+          ]
+        },
+        "writer": [
+          "Christopher J. Priest"
+        ],
+        "editor": [
+          "Joe Quesada"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Dora Milaje (Group)",
+            "Okoye",
+            "Nakia Shauku",
+            "Zuri"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Christopher J. Priest",
+              "Mark Texeira"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CBCS"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.6",
+          "grader": "CBCS",
+          "grade_cert": "22-2E65811-001"
+        }
+      }
+    ]
+  },
+  {
+    "Bone": [
+      {
+        "ref_num": null,
+        "title": "Bone",
+        "alphabetized_title": "Bone",
+        "issue": "005",
+        "publisher": [
+          "Cartoon Books"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ],
+          "color": [],
+          "letters": [
+            "Jeff Smith"
+          ]
+        },
+        "writer": [
+          "Jeff Smith"
+        ],
+        "editor": [
+          "Jeff Smith"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "contains letter from Scott McCloud"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Bone",
+        "alphabetized_title": "Bone",
+        "issue": "006",
+        "publisher": [
+          "Cartoon Books"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ],
+          "color": [],
+          "letters": [
+            "Jeff Smith"
+          ]
+        },
+        "writer": [
+          "Jeff Smith"
+        ],
+        "editor": [
+          "Jeff Smith"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Bone",
+        "alphabetized_title": "Bone",
+        "issue": "008",
+        "publisher": [
+          "Cartoon Books"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "February",
+        "cover_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ],
+          "color": [],
+          "letters": [
+            "Jeff Smith"
+          ]
+        },
+        "writer": [
+          "Jeff Smith"
+        ],
+        "editor": [
+          "Jeff Smith"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Bone",
+        "alphabetized_title": "Bone",
+        "issue": "050",
+        "publisher": [
+          "Cartoon Books"
+        ],
+        "print_run": 1,
+        "year_published": "2002",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ],
+          "color": [],
+          "letters": [
+            "Jeff Smith"
+          ]
+        },
+        "writer": [
+          "Jeff Smith"
+        ],
+        "editor": [
+          "Jeff Smith"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "red foil logo"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Bone",
+        "alphabetized_title": "Bone",
+        "issue": "nn Sourcebook 1",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1995",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Smith"
+          ],
+          "ink": [
+            "Jeff Smith"
+          ],
+          "color": [],
+          "letters": [
+            "Jeff Smith"
+          ]
+        },
+        "writer": [
+          "Jeff Smith"
+        ],
+        "editor": [
+          "Jeff Smith"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jeff Smith"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "foil"
+          ],
+          "other_notable_criteria": [
+            "has gold foil sticker on cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Daredevil": [
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "227",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1986",
+        "month_published": "February",
+        "cover_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ],
+          "color": [
+            "Christie Scheele"
+          ],
+          "letters": [
+            "Joe Rosen"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Ralph Macchio",
+          "Craig Anderson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "part 1 of critically acclaimed Born Again storyline"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Godzilla vs. Barkley": [
+      {
+        "ref_num": null,
+        "title": "Godzilla vs. Barkley",
+        "alphabetized_title": "Godzilla vs. Barkley",
+        "issue": "001",
+        "publisher": [
+          "Dark Horse"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [
+            "Dave Dorman"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Jeff Butler"
+          ],
+          "ink": [
+            "Keith Aiken"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Mike Baron",
+          "Alan Smithee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Last of the Viking Heroes": [
+      {
+        "ref_num": null,
+        "title": "Last of the Viking Heroes",
+        "alphabetized_title": "Last of the Viking Heroes",
+        "issue": "001",
+        "publisher": [
+          "Genesis West"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby",
+            "Michael Thibodeaux"
+          ],
+          "ink": [
+            "Jack Kirby",
+            "Michael Thibodeaux"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Michael Thibodeaux"
+          ],
+          "ink": [
+            "Michael Thibodeaux"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Michael Thibodeaux"
+        ],
+        "editor": [
+          "Steve Robertson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jack Kirby",
+              "Michael Thibodeaux"
+            ],
+            "placement": [
+              "first page"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Love & Rockets": [
+      {
+        "ref_num": null,
+        "title": "Love & Rockets",
+        "alphabetized_title": "Love & Rockets",
+        "issue": "020",
+        "publisher": [
+          "Fantagraphics"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Jaime Hernandez",
+            "Gilbert Hernandez"
+          ],
+          "ink": [
+            "Jaime Hernandez",
+            "Gilbert Hernandez"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jaime Hernandez"
+          ],
+          "ink": [
+            "Jaime Hernandez"
+          ],
+          "color": [],
+          "letters": [
+            "Jaime Hernandez"
+          ]
+        },
+        "writer": [
+          "Jaime Hernandez"
+        ],
+        "editor": [
+          "Gary Groth",
+          "Peppy White"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jaime Hernandez"
+            ],
+            "placement": [
+              "first page"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "G",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "The Malibu Sun": [
+      {
+        "ref_num": null,
+        "title": "The Malibu Sun",
+        "alphabetized_title": "Malibu Sun",
+        "issue": "013",
+        "publisher": [
+          "Malibu"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Richmond Lewis"
+          ],
+          "letters": [
+            "Todd Klein"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Olbrich"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first appearance of Spawn in print"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Todd McFarlane"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.6",
+          "grader": "CGC",
+          "grade_cert": "4148227001"
+        }
+      }
+    ]
+  },
+  {
+    "Marvel Graphic Novel": [
+      {
+        "ref_num": null,
+        "title": "Marvel Graphic Novel",
+        "alphabetized_title": "Marvel Graphic Novel",
+        "issue": "005",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1982",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Brent Anderson"
+          ],
+          "ink": [
+            "Brent Anderson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Brent Anderson"
+          ],
+          "ink": [
+            "Brent Anderson"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Christopher Claremont"
+        ],
+        "editor": [
+          "Louise Jones"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Chris Claremont"
+            ],
+            "placement": [
+              "front cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "X-Men - God Loves, Man Kills",
+            "iconic story"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.6",
+          "grader": "CGC",
+          "grade_cert": "4221506010"
+        }
+      }
+    ]
+  },
+  {
+    "The Maxx": [
+      {
+        "ref_num": null,
+        "title": "The Maxx",
+        "alphabetized_title": "Maxx",
+        "issue": "003",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Sam Kieth"
+          ],
+          "ink": [
+            "Sam Kieth"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Sam Kieth"
+          ],
+          "ink": [
+            "Sam Kieth",
+            "Jim Sinclair"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Michael Heisler"
+          ]
+        },
+        "writer": [
+          "Sam Kieth",
+          "William Messner-Loebs"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "New Gods": [
+      {
+        "ref_num": null,
+        "title": "New Gods",
+        "alphabetized_title": "New Gods",
+        "issue": "001",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1971",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Frank Giaocia"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Vince Colletta"
+          ],
+          "color": [
+            "?"
+          ],
+          "letters": [
+            "John Costanza"
+          ]
+        },
+        "writer": [
+          "Jack Kirby"
+        ],
+        "editor": [
+          "Carmine Infantino"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Orion",
+            "Highfather",
+            "Kalibak",
+            "Lightray",
+            "Metron",
+            "the New Gods team",
+            "planet New Genesis",
+            "planet Apokolips",
+            "The Source Wall"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jack Kirby"
+            ],
+            "placement": [
+              "front cover"
+            ],
+            "authentication": "CBCS"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "rare cover signature of Jack Kirby",
+            "fourth appearance of Darkseid",
+            "first issue of series"
+          ],
+          "appraisal_status": "graded",
+          "condition": "7.5",
+          "grader": "CBCS",
+          "grade_cert": "23-32A46B6-001"
+        }
+      }
+    ]
+  },
+  {
+    "The Nine Rings of Wu-Tang": [
+      {
+        "ref_num": null,
+        "title": "The Nine Rings of Wu-Tang",
+        "alphabetized_title": "Nine Rings of Wu-Tang",
+        "issue": "002",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1999",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [
+            "Clayton Henry"
+          ],
+          "ink": [
+            "Clayton Henry"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Clayton Henry"
+          ],
+          "ink": [
+            "Roy Allan Martinez"
+          ],
+          "color": [
+            "Ian Hannin"
+          ],
+          "letters": [
+            "Dennis Heisler"
+          ]
+        },
+        "writer": [
+          "Arron Bullock",
+          "Brian Haberlin"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "Tower Records exclusive"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Nintendo Power": [
+      {
+        "ref_num": null,
+        "title": "Nintendo Power",
+        "alphabetized_title": "Nintendo Power",
+        "issue": "031",
+        "publisher": [
+          "Nintendo of America"
+        ],
+        "print_run": 1,
+        "year_published": "1991",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "magazine"
+          ],
+          "other_notable_criteria": [
+            "Metroid II cover",
+            "Teenage Mutant Ninja Turtles III: The Manhattan Project poster included"
+          ],
+          "appraisal_status": "raw",
+          "condition": "G",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "The Punisher: War Journal": [
+      {
+        "ref_num": null,
+        "title": "The Punisher: War Journal",
+        "alphabetized_title": "Punisher: War Journal",
+        "issue": "019",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Jim Lee"
+          ],
+          "color": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Al Milgrom"
+          ],
+          "color": [
+            "Gregory Wright"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Carl Potts"
+        ],
+        "editor": [
+          "Don Daley",
+          "Rob Tokar"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jim Lee"
+            ],
+            "placement": [
+              "front cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "4068264002"
+        }
+      }
+    ]
+  },
+  {
+    "The Savage Dragon (1st series)": [
+      {
+        "ref_num": null,
+        "title": "The Savage Dragon (1st series)",
+        "alphabetized_title": "Savage Dragon (1st series)",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Erik Larsen"
+          ],
+          "ink": [
+            "Erik Larsen"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Erik Larsen"
+          ],
+          "ink": [
+            "Erik Larsen"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Erik Larsen"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the Savage Dragon"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "green cover"
+          ],
+          "other_notable_criteria": [
+            "direct editions have 4 color variants (each with a different poster)"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Shadowhawk (1st series)": [
+      {
+        "ref_num": null,
+        "title": "Shadowhawk (1st series)",
+        "alphabetized_title": "Shadowhawk (1st series)",
+        "issue": "003",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "December",
+        "cover_art": {
+          "pencil": [
+            "Jim Valentino"
+          ],
+          "ink": [
+            "Jim Valentino"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Valentino"
+          ],
+          "ink": [
+            "Jim Valentino"
+          ],
+          "color": [
+            "Eric Vincent"
+          ],
+          "letters": [
+            "Kurt Hathaway"
+          ]
+        },
+        "writer": [
+          "Jim Valentino"
+        ],
+        "editor": [
+          "Eric Stephenson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "glow-in-the-dark cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "The Simpsons": [
+      {
+        "ref_num": null,
+        "title": "The Simpsons",
+        "alphabetized_title": "Simpsons",
+        "issue": "078",
+        "publisher": [
+          "Bongo"
+        ],
+        "print_run": 1,
+        "year_published": "2003",
+        "month_published": "January",
+        "cover_art": {
+          "pencil": [
+            "Bill Morrison"
+          ],
+          "ink": [
+            "Mike Rote"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Phil Ortiz"
+          ],
+          "ink": [
+            "Mike DeCarlo"
+          ],
+          "color": [
+            "Art Villanueva"
+          ],
+          "letters": [
+            "Karen bates"
+          ]
+        },
+        "writer": [
+          "Ian Boothby"
+        ],
+        "editor": [
+          "Bill Morrison"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Spawn": [
+      {
+        "ref_num": null,
+        "title": "Spawn",
+        "alphabetized_title": "Spawn",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Al Simmons",
+            "Sam & Twitch"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Todd McFarlane",
+              "Al 'Spawn' Simmons",
+              "Steve Oliff",
+              "Tom Orzechowski",
+              "Dave Olbrich"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "iconic cover",
+            "error on inside cover Spawn logo"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spawn",
+        "alphabetized_title": "Spawn",
+        "issue": "002",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the Violator"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spawn",
+        "alphabetized_title": "Spawn",
+        "issue": "003",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spawn",
+        "alphabetized_title": "Spawn",
+        "issue": "008",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "February",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Steve Oliff"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Alan Moore"
+        ],
+        "editor": [
+          "Tom Orzechowski"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Todd McFarlane",
+              "Steve Oliff",
+              "Tom Orzechowski"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "cover tribute to McFarlane Spider-Man 1 cover",
+            "first Spawn written by Alan Moore"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Spider-Man": [
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand",
+            "regular green/yellow cover"
+          ],
+          "other_notable_criteria": [
+            "iconic cover",
+            "first issue of McFarlane's own Spider-Man series"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      }
+    ]
+  },
+  {
+    "Spider-Man 2099": [
+      {
+        "ref_num": null,
+        "title": "Spider-Man 2099",
+        "alphabetized_title": "Spider-Man 2099",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 2,
+        "year_published": "1992",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato?"
+          ],
+          "letters": [
+            "Rick Parker?"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Peter David"
+        ],
+        "editor": [
+          "Joey Cavalieri",
+          "Tom Defalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Miguel O Hara",
+            "Earth-928",
+            "The Marvel 2099 Reality"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "Toy Biz reprint"
+          ],
+          "other_notable_criteria": [
+            "first issue",
+            "Included with Toy Biz Spiderman 2099 action figure",
+            "Indicia reads Second Printing"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "4398960003"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man 2099",
+        "alphabetized_title": "Spider-Man 2099",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 2,
+        "year_published": "1992",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato?"
+          ],
+          "letters": [
+            "Rick Parker?"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Peter David"
+        ],
+        "editor": [
+          "Joey Cavalieri",
+          "Tom Defalco"
+        ],
+        "for_sale": true,
+        "price": 375,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Miguel O Hara",
+            "Earth-928",
+            "The Marvel 2099 Reality"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "Toy Biz reprint"
+          ],
+          "other_notable_criteria": [
+            "first issue",
+            "Included with Toy Biz Spiderman 2099 action figure",
+            "Indicia reads Second Printing"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.4",
+          "grader": "CGC",
+          "grade_cert": "2088610001"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man 2099",
+        "alphabetized_title": "Spider-Man 2099",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato?"
+          ],
+          "letters": [
+            "Rick Parker?"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Peter David"
+        ],
+        "editor": [
+          "Joey Cavalieri",
+          "Tom Defalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Miguel O Hara",
+            "Earth-928",
+            "The Marvel 2099 Reality"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "first issue",
+            "red foil cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man 2099",
+        "alphabetized_title": "Spider-Man 2099",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "November",
+        "cover_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato?"
+          ],
+          "letters": [
+            "Rick Parker?"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rick Leonardi"
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Peter David"
+        ],
+        "editor": [
+          "Joey Cavalieri",
+          "Tom Defalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Miguel O Hara",
+            "Earth-928",
+            "The Marvel 2099 Reality"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "first issue",
+            "red foil cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "3815704002"
+        }
+      }
+    ]
+  },
+  {
+    "Splitting Image": [
+      {
+        "ref_num": null,
+        "title": "Splitting Image",
+        "alphabetized_title": "Splitting Image",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [
+            "Don Simpson"
+          ],
+          "ink": [
+            "Don Simpson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Don Simpson"
+          ],
+          "ink": [
+            "Don Simpson"
+          ],
+          "color": [
+            "Brian Murray"
+          ],
+          "letters": [
+            "Don Simpson"
+          ]
+        },
+        "writer": [
+          "Don Simpson"
+        ],
+        "editor": [
+          "Eric Stephenson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "Spawn parody cover"
+          ],
+          "other_notable_criteria": [
+            "parody of Image universe"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Superman (2nd series)": [
+      {
+        "ref_num": null,
+        "title": "Superman (2nd series)",
+        "alphabetized_title": "Superman (2nd series)",
+        "issue": "075",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "January",
+        "cover_art": {
+          "pencil": [
+            "Dan Jurgens"
+          ],
+          "ink": [
+            "Brett Breeding"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dan Jurgens"
+          ],
+          "ink": [
+            "Brett Breeding"
+          ],
+          "color": [
+            "Glenn Whitmore"
+          ],
+          "letters": [
+            "John Costanza"
+          ]
+        },
+        "writer": [
+          "Dan Jurgens"
+        ],
+        "editor": [
+          "Mike Carlin",
+          "Jennifer Frank"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "death or Superman",
+            "iconic cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Superman (2nd series)",
+        "alphabetized_title": "Superman (2nd series)",
+        "issue": "082",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Dan Jurgens"
+          ],
+          "ink": [
+            "Brett Breeding"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dan Jurgens"
+          ],
+          "ink": [
+            "Brett Breeding",
+            "Pete Berardi"
+          ],
+          "color": [
+            "Glenn Whitmore"
+          ],
+          "letters": [
+            "John Costanza"
+          ]
+        },
+        "writer": [
+          "Dan Jurgens"
+        ],
+        "editor": [
+          "Mike Carlin",
+          "Frank Pittarese"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "last part of the Reign of the Supermen storyline",
+            "chromium cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles (Image)": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Image)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Image)",
+        "issue": "023",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1999",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Frank Fosco"
+          ],
+          "ink": [
+            "Erik Larsen"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Fosco"
+          ],
+          "ink": [
+            "Frank Fosco"
+          ],
+          "color": [],
+          "letters": [
+            "Pat Brosseau"
+          ]
+        },
+        "writer": [
+          "Gary Carlson"
+        ],
+        "editor": [
+          "Erik Larsen"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "final issue in Image continuity"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles (Mirage)": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "issue": "003",
+        "publisher": [
+          "Mirage Studios"
+        ],
+        "print_run": 1,
+        "year_published": "1985",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [
+            "Peter Laird"
+          ],
+          "ink": [
+            "Peter Laird"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "ink": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "color": [],
+          "letters": [
+            "Kevein Eastman"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird"
+        ],
+        "editor": [
+          "Peter Laird",
+          "Kevin Eastman"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "magazine format"
+          ],
+          "other_notable_criteria": [
+            "first apperanace of the Utroms",
+            "wraparound cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "F",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "issue": "004",
+        "publisher": [
+          "Mirage Studios"
+        ],
+        "print_run": 1,
+        "year_published": "1985",
+        "month_published": "?",
+        "cover_art": {
+          "pencil": [
+            "Peter Laird"
+          ],
+          "ink": [
+            "Peter Laird"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "ink": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "color": [],
+          "letters": [
+            "Kevein Eastman"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird"
+        ],
+        "editor": [
+          "Peter Laird",
+          "Kevin Eastman"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "magazine format"
+          ],
+          "other_notable_criteria": [
+            "last issue in magazine format",
+            "third appearance of April O'Neil",
+            "second appearance of the Foot Clan",
+            "wraparound cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "F",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "issue": "010",
+        "publisher": [
+          "Mirage Studios"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Peter Laird"
+          ],
+          "ink": [
+            "Peter Laird"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Peter Laird",
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Peter Laird",
+            "Kevin Eastman",
+            "Michael Dooney"
+          ],
+          "color": [],
+          "letters": [
+            "Steve Lavigne"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "story continued from Leonardo one-shot",
+            "iconic Shredder page art"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "issue": "026",
+        "publisher": [
+          "Mirage Studios"
+        ],
+        "print_run": 1,
+        "year_published": "1989",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Rick Veitch"
+          ],
+          "ink": [
+            "Rick Veitch"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rick Veitch"
+          ],
+          "ink": [
+            "Rick Veitch"
+          ],
+          "color": [],
+          "letters": [
+            "Gary Fields"
+          ]
+        },
+        "writer": [
+          "Rick Veitch"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Peter Laird"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "The River Part 3 story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "issue": "nn Raphael one-shot",
+        "publisher": [
+          "Mirage Studios"
+        ],
+        "print_run": 1,
+        "year_published": "1985",
+        "month_published": "?",
+        "cover_art": {
+          "pencil": [
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Kevin Eastman"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "ink": [
+            "Kevin Eastman",
+            "Peter Laird"
+          ],
+          "color": [],
+          "letters": [
+            "Kevein Eastman"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird"
+        ],
+        "editor": [
+          "Peter Laird",
+          "Kevin Eastman"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Casey Jones"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "magazine format"
+          ],
+          "other_notable_criteria": [
+            "first TMNT spin-off",
+            "wraparound cover",
+            "black & white"
+          ],
+          "appraisal_status": "raw",
+          "condition": "F",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles Adventures": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles Adventures",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles Adventures",
+        "issue": "072",
+        "publisher": [
+          "Archie"
+        ],
+        "print_run": 1,
+        "year_published": "1995",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Biran Thomas"
+          ],
+          "ink": [
+            "Biran Thomas"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Biran Thomas"
+          ],
+          "ink": [
+            "Don Simpson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Steve Sullivan",
+          "Dean Clarrain"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "last issue in TMNT Adventures series"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles Adventures (mini series)": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles Adventures (mini series)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles Adventures (mini series)",
+        "issue": "001",
+        "publisher": [
+          "Archie"
+        ],
+        "print_run": 1,
+        "year_published": "1988",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Peter Laird"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Michael Dooney"
+          ],
+          "ink": [
+            "Dave Garcia"
+          ],
+          "color": [
+            "Barry Grossman"
+          ],
+          "letters": [
+            "Steve Lavigne"
+          ]
+        },
+        "writer": [
+          "Michael Dooney"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Krang in comics",
+            "Bebop in comics",
+            "Rocksteady in comics"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles: The Last Ronin": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "issue": "001",
+        "publisher": [
+          "IDW"
+        ],
+        "print_run": 1,
+        "year_published": "2020",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Kevin Eastman"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Ben Bishop"
+          ],
+          "ink": [
+            "Esau Escorza",
+            "Issac Escorza"
+          ],
+          "color": [
+            "Luis Antonio Delgado",
+            "Samuel Plata"
+          ],
+          "letters": [
+            "Shawn Lee"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird",
+          "Tom Waltz"
+        ],
+        "editor": [
+          "Bobby Curnow",
+          "R. G. Llarena"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first appearance of The Last Ronin"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.9",
+          "grader": "CGC",
+          "grade_cert": "3765893006"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "issue": "001",
+        "publisher": [
+          "IDW"
+        ],
+        "print_run": 1,
+        "year_published": "2020",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Kevin Eastman"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Ben Bishop"
+          ],
+          "ink": [
+            "Esau Escorza",
+            "Issac Escorza"
+          ],
+          "color": [
+            "Luis Antonio Delgado",
+            "Samuel Plata"
+          ],
+          "letters": [
+            "Shawn Lee"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird",
+          "Tom Waltz"
+        ],
+        "editor": [
+          "Bobby Curnow",
+          "R. G. Llarena"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first appearance of The Last Ronin"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Kevin Eastman"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct",
+            "Retailer incentive edition A"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "10",
+          "grader": "CGC",
+          "grade_cert": "3773614006"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles: The Last Ronin",
+        "issue": "001",
+        "publisher": [
+          "IDW"
+        ],
+        "print_run": 1,
+        "year_published": "2020",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Kevin Eastman"
+          ],
+          "ink": [
+            "Kevin Eastman"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Kevin Eastman",
+            "Ben Bishop"
+          ],
+          "ink": [
+            "Esau Escorza",
+            "Issac Escorza"
+          ],
+          "color": [
+            "Luis Antonio Delgado",
+            "Samuel Plata"
+          ],
+          "letters": [
+            "Shawn Lee"
+          ]
+        },
+        "writer": [
+          "Kevin Eastman",
+          "Peter Laird",
+          "Tom Waltz"
+        ],
+        "editor": [
+          "Bobby Curnow",
+          "R. G. Llarena"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "first appearance of The Last Ronin"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "Retailer incentive edition A"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "The Transformers (Marvel)": [
+      {
+        "ref_num": null,
+        "title": "The Transformers (Marvel)",
+        "alphabetized_title": "Transformers (Marvel)",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1984",
+        "month_published": "September",
+        "cover_art": {
+          "pencil": [
+            "Bill Sienkiewicz"
+          ],
+          "ink": [
+            "Bill Sienkiewicz"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Springer"
+          ],
+          "ink": [
+            "Kim DeMulder"
+          ],
+          "color": [
+            "Nel Yomtov"
+          ],
+          "letters": [
+            "Michael Higgins",
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Bill Mantlo",
+          "Ralph Macchio"
+        ],
+        "editor": [
+          "Bob Budiansky"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Autobots in comics",
+            "Decepticons in comics"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "origin of the Autobots and Decepticons",
+            "first Transformers comic book"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Transformers (Marvel)",
+        "alphabetized_title": "Transformers (Marvel)",
+        "issue": "024",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1986",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Herb Trimpe"
+          ],
+          "ink": [
+            "Herb Trimpe"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Don Perlin"
+          ],
+          "ink": [
+            "Ian Akin",
+            "Brian Garvey"
+          ],
+          "color": [
+            "Nel Yomtov"
+          ],
+          "letters": [
+            "Janice Chiang"
+          ]
+        },
+        "writer": [
+          "Bob Budiansky"
+        ],
+        "editor": [
+          "Don Daley"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Combaticons",
+            "Protectobots",
+            "Ethan Zachary"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Bob Budiansky"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "F",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Tribe": [
+      {
+        "ref_num": null,
+        "title": "Tribe",
+        "alphabetized_title": "Tribe",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "March",
+        "cover_art": {
+          "pencil": [],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Larry Stroman"
+          ],
+          "ink": [
+            "Larry Stroman"
+          ],
+          "color": [
+            "Wendy Founts"
+          ],
+          "letters": [
+            "Mike Heisler"
+          ]
+        },
+        "writer": [
+          "Larry Stroman",
+          "Todd Johnson"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "gold embossed cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "The Uncanny X-Men": [
+      {
+        "ref_num": null,
+        "title": "The Uncanny X-Men",
+        "alphabetized_title": "Uncanny X-Men",
+        "issue": "300",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Dan Green"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Dan Green"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Chris Eliopoulos"
+          ]
+        },
+        "writer": [
+          "Scott Lobdell"
+        ],
+        "editor": [
+          "Bob Harras",
+          "Lisa Patrick"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "certificate"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "foil cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Usagi Yojimbo": [
+      {
+        "ref_num": null,
+        "title": "Usagi Yojimbo",
+        "alphabetized_title": "Usagi Yojimbo",
+        "issue": "010",
+        "publisher": [
+          "Fantagraphics"
+        ],
+        "print_run": 1,
+        "year_published": "1988",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Stan Sakai"
+          ],
+          "ink": [
+            "Stan Sakai"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Stan Sakai",
+            "Peter Laird"
+          ],
+          "ink": [
+            "Stan Sakai",
+            "Peter Laird"
+          ],
+          "color": [],
+          "letters": [
+            "Stan Sakai"
+          ]
+        },
+        "writer": [
+          "Stan Sakai",
+          "Peter Laird"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Jei"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "contains 8-page TMNT story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Web of Spider-Man": [
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man",
+        "alphabetized_title": "Web of Spider-Man",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1985",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Charles Vess"
+          ],
+          "ink": [
+            "Charles Vess"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Greg LaRocque"
+          ],
+          "ink": [
+            "Jim Mooney"
+          ],
+          "color": [
+            "George Bell"
+          ],
+          "letters": [
+            "Janice Chiang"
+          ]
+        },
+        "writer": [
+          "Louise Jones-Simonson"
+        ],
+        "editor": [
+          "Jim Owsley"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "front cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "perfectly placed signature",
+            "story - Till Death Do Us Part",
+            "excellent single-issue story",
+            "first issue of series"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "1176969002"
+        }
+      }
+    ]
+  },
+  {
+    "Wild C.A.T.S.": [
+      {
+        "ref_num": null,
+        "title": "Wild C.A.T.S.",
+        "alphabetized_title": "Wild C.A.T.S.",
+        "issue": "002",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "September",
+        "cover_art": {
+          "pencil": [
+            "Jim Less"
+          ],
+          "ink": [
+            "Scott Williams"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scot Williams"
+          ],
+          "color": [],
+          "letters": [
+            "Michael Heisler"
+          ]
+        },
+        "writer": [
+          "Jim Lee",
+          "Brandon Choi"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Troika",
+            "Master Gnome",
+            "Black Razor"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "prism cover",
+            "contains Image #0 coupon",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Wolverine": [
+      {
+        "ref_num": null,
+        "title": "Wolverine",
+        "alphabetized_title": "Wolverine",
+        "issue": "027",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Jim Lee"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "John Buscema"
+          ],
+          "ink": [
+            "Dan Green"
+          ],
+          "color": [
+            "Glynis Oliver"
+          ],
+          "letters": [
+            "Ken Bruzenak"
+          ]
+        },
+        "writer": [
+          "Jo Duffy"
+        ],
+        "editor": [
+          "Bob Harras",
+          "Suzanne Gaffney"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Lazarus Project part 1"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "X-Men": [
+      {
+        "ref_num": null,
+        "title": "X-Men",
+        "alphabetized_title": "X-Men",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1991",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ],
+          "color": [
+            "Joe Rosas"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "Chris Claremont",
+          "Jim Lee"
+        ],
+        "editor": [
+          "Bob Harras",
+          "Suzanne Gaffney"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "Magneto cover"
+          ],
+          "other_notable_criteria": [
+            "comic came in 5 different cover variants",
+            "cover variants connect"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "X-Men",
+        "alphabetized_title": "X-Men",
+        "issue": "004",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "January",
+        "cover_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ],
+          "color": [
+            "Joe Rosas"
+          ],
+          "letters": [
+            "Tom Orzechowski"
+          ]
+        },
+        "writer": [
+          "John Byrne",
+          "Jim Lee"
+        ],
+        "editor": [
+          "Bob Harras",
+          "Suzanne Gaffney"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Omega Red"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Youngblood": [
+      {
+        "ref_num": null,
+        "title": "Youngblood",
+        "alphabetized_title": "Youngblood",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Rob Liefeld"
+          ],
+          "ink": [
+            "Rob Liefeld"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Rob Liefeld"
+          ],
+          "ink": [
+            "Rob Liefeld"
+          ],
+          "color": [
+            "Brian Murray"
+          ],
+          "letters": []
+        },
+        "writer": [
+          "Rob Liefeld"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  }
+]
