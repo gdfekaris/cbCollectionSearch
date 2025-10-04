@@ -1,3 +1,3 @@
 # cbCollectionSearch
-Formats and searches informantion about a personal comic book collection.
+Formats and searches information about a personal comic book collection.
 WIP
