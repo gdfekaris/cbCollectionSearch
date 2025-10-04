@@ -109,10 +109,13 @@ def get_all():
             signed_by
           )
 
-#Example function calls
+#Example function calls 
 #get_issues("The Amazing Spider-Man")
 #series_list()
 #get_all()
+
+#You can can uncomment an example function call above and run this script directly (run: python3 list_traverse.py).
+#Or you can use the method below to call a specific function from the script.
 
 #Example calls from command line:
 #python3 -c "from list_traverse import get_issues; get_issues('The Amazing Spider-Man')"
