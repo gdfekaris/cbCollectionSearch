@@ -2,42 +2,42 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
-  "issue": "100",
+  "issue": "375",
   "publisher": [
     "Marvel"
   ],
   "print_run": 1,
-  "year_published": "1971",
-  "month_published": "Sept",
+  "year_published": "1993",
+  "month_published": "Mar",
   "cover_art": {
-    "pencil": ["John Romita"],
-    "ink": []
+    "pencil": ["Mark Bagley"],
+    "ink": ["Randy Emberlin"]
   },
   "page_art": {
-    "pencil": ["Gil Kane"],
-    "ink": ["Frank Giacoia"],
-    "color": [],
-    "letters": ["Art Simek"]
+    "pencil": ["Mark Bagley"],
+    "ink": ["Pat Oliffe"],
+    "color": ["Bob Sharen"],
+    "letters": ["Richard Starkings"]
   },
-  "writer": ["Stan Lee"],
-  "editor": ["Stan Lee"],
+  "writer": ["David Michelinie"],
+  "editor": ["Mike Lackey"],
   "for_sale": false,
   "price": null,
   "image_ref_base": null,
   "images": [],
   "tags": [],
   "collectible_criteria": {
-    "significant_first_appearances": [],
+    "significant_first_appearances": ["Anne Weying"],
     "signature": {
-      "signed": true,
-      "person": ["Stan Lee"],
-      "placement": ["cover"],
+      "signed": false,
+      "person": [],
+      "placement": [],
       "authentication": null
     },
-    "variant": [null],
-    "other_notable_criteria": ["100th anniversary issue", "iconic cover"],
+    "variant": ["direct"],
+    "other_notable_criteria": ["iconic Holo-grafx cover"],
     "appraisal_status": "raw",
-    "condition": "FN/VF",
+    "condition": "VF-",
     "grader": "",
     "grade_cert": ""
   }
