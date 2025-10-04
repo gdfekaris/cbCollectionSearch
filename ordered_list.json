@@ -5,6 +5,67 @@
         "ref_num": null,
         "title": "The Amazing Spider-Man",
         "alphabetized_title": "Amazing Spider-Man",
+        "issue": "003",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1963",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Steve Ditko"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Steve Ditko"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Doctor Octopus (Otto Octavius)"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "origin of Dr. Octopus",
+            "Human Torch Appearance"
+          ],
+          "appraisal_status": "graded",
+          "condition": "3.0",
+          "grader": "CGC",
+          "grade_cert": "1005238001"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Amazing Spider-Man",
+        "alphabetized_title": "Amazing Spider-Man",
         "issue": "301",
         "publisher": [
           "Marvel"
@@ -4259,7 +4320,8 @@
           "significant_first_appearances": [
             "Troika",
             "Master Gnome",
-            "Black Razor"
+            "Black Razor",
+            "Wetworks"
           ],
           "signature": {
             "signed": false,

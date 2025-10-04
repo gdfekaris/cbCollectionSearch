@@ -109,8 +109,8 @@ def get_all():
             signed_by
           )
 
-#get_issues("Spawn")
-series_list()
+get_issues("The Amazing Spider-Man")
+#series_list()
 #get_all()
 
 
