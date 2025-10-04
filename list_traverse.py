@@ -109,11 +109,15 @@ def get_all():
             signed_by
           )
 
+#Example function calls
 #get_issues("The Amazing Spider-Man")
 #series_list()
-get_all()
+#get_all()
 
-
+#Example calls from command line:
+#python3 -c "from list_traverse import get_issues; get_issues('The Amazing Spider-Man')"
+#python3 -c "from list_traverse import series_list; series_list()"
+#python3 -c "from list_traverse import get_all; get_all()"
 
 
 # To Do:

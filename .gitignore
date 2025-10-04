@@ -1,4 +1,5 @@
 backup
+__pycache__
 #raw_list.json
 comic_book_collection.geany
 

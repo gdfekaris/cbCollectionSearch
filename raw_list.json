@@ -34,7 +34,7 @@
       "placement": ["cover"],
       "authentication": "CGC"
     },
-    "variant": ["n/a"],
+    "variant": [null],
     "other_notable_criteria": ["origin of Dr. Octopus","Human Torch Appearance"],
     "appraisal_status": "graded",
     "condition": "3.0",

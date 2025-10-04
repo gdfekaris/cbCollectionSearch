@@ -52,6 +52,10 @@ def create_ordered_json(comics, output_file_name):
 
 create_ordered_json(collection, "ordered_list.json")
 
+#Example use:
+# 1. use the staging_doc.json file to manually create a list entry
+# 2. append that list entry to raw_list.json
+# 3. run: python3 create_ordered_list.py
 
 # To do:
 
