@@ -2,6 +2,270 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
+  "issue": "100",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1971",
+  "month_published": "Sept",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Gil Kane"],
+    "ink": ["Frank Giacoia"],
+    "color": [],
+    "letters": ["Art Simek"]
+  },
+  "writer": ["Stan Lee"],
+  "editor": ["Stan Lee"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": true,
+      "person": ["Stan Lee"],
+      "placement": ["cover"],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": ["100th anniversary issue", "iconic cover"],
+    "appraisal_status": "raw",
+    "condition": "FN/VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "100",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1971",
+  "month_published": "Sept",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Gil Kane"],
+    "ink": ["Frank Giacoia"],
+    "color": [],
+    "letters": ["Art Simek"]
+  },
+  "writer": ["Stan Lee"],
+  "editor": ["Stan Lee"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": ["100th anniversary issue", "iconic cover"],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "112",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1972",
+  "month_published": "Sept",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["John Romita"],
+    "ink": ["John Romita", "Tony Mortellaro"],
+    "color": [],
+    "letters": ["Art Simek"]
+  },
+  "writer": ["Gerrry Conway"],
+  "editor": ["Roy Thomas"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "FN",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "070",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1969",
+  "month_published": "Mar",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["John Romita"],
+    "ink": [],
+    "color": [],
+    "letters": ["Sam Rosen"]
+  },
+  "writer": ["Stan Lee", "John Romita"],
+  "editor": ["Stan Lee"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "FN",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "150",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1975",
+  "month_published": "Nov",
+  "cover_art": {
+    "pencil": ["Gil Kane"],
+    "ink": ["Frank Giacoia"]
+  },
+  "page_art": {
+    "pencil": ["Gil Kane"],
+    "ink": ["Mike Esposito, Frank Giacoia"],
+    "color": ["Peta Goldberg"],
+    "letters": ["Jay Rosen"]
+  },
+  "writer": ["Archie Goodwin"],
+  "editor": ["Marv Wolfman"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "FN+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "151",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1975",
+  "month_published": "Dec",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["John Romita"],
+    "ink": [],
+    "color": ["Glynis Wein"],
+    "letters": ["John Costanza"]
+  },
+  "writer": ["Len Wein"],
+  "editor": ["Len Wein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": [null],
+    "other_notable_criteria": ["iconic cover homage to ASM #33"],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
   "issue": "003",
   "publisher": [
     "Marvel"

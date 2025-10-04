@@ -62,6 +62,20 @@ def get_issues(series_name):
 
                print(issue_details)
 
+# Prints all issues (without details) in a specified series
+def get_issues_simplified(series_name):
+   print("\nCollection of " + series_name + " issues:\n")
+   for series in collection:
+      for key, value in series.items():
+         if key == series_name:
+            for issue in value:
+               title = issue["title"]
+               issue_num = issue["issue"]
+               
+               issue_details =(title  + " #" + issue_num)
+
+               print(issue_details)
+
 
 # Prints the name of each series in the collection, alphabetically
 def series_list():
@@ -111,6 +125,7 @@ def get_all():
 
 #Example function calls 
 #get_issues("The Amazing Spider-Man")
+#get_issues_simplified("The Amazing Spider-Man")
 #series_list()
 #get_all()
 

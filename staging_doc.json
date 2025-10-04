@@ -2,43 +2,43 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
-  "issue": "003",
+  "issue": "100",
   "publisher": [
     "Marvel"
   ],
   "print_run": 1,
-  "year_published": "1963",
-  "month_published": "July",
+  "year_published": "1971",
+  "month_published": "Sept",
   "cover_art": {
-    "pencil": ["Steve Ditko"],
+    "pencil": ["John Romita"],
     "ink": []
   },
   "page_art": {
-    "pencil": ["Steve Ditko"],
-    "ink": [],
+    "pencil": ["Gil Kane"],
+    "ink": ["Frank Giacoia"],
     "color": [],
-    "letters": []
+    "letters": ["Art Simek"]
   },
   "writer": ["Stan Lee"],
-  "editor": [],
+  "editor": ["Stan Lee"],
   "for_sale": false,
   "price": null,
   "image_ref_base": null,
   "images": [],
   "tags": [],
   "collectible_criteria": {
-    "significant_first_appearances": ["Doctor Octopus (Otto Octavius)"],
+    "significant_first_appearances": [],
     "signature": {
       "signed": true,
       "person": ["Stan Lee"],
       "placement": ["cover"],
-      "authentication": "CGC"
+      "authentication": null
     },
-    "variant": [],
-    "other_notable_criteria": ["origin of Dr. Octopus","Human Torch Appearance"],
-    "appraisal_status": "graded",
-    "condition": "3.0",
-    "grader": "CGC",
-    "grade_cert": "1005238001"
+    "variant": [null],
+    "other_notable_criteria": ["100th anniversary issue", "iconic cover"],
+    "appraisal_status": "raw",
+    "condition": "FN/VF",
+    "grader": "",
+    "grade_cert": ""
   }
 }
