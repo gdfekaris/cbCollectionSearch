@@ -2,6 +2,270 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
+  "issue": "299",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "April",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": ["Bob McLeod"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["Venom in cameo"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "298",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "Mar",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": ["Bob McLeod"],
+    "color": ["Janet Jackson"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["Eddie Brock in cameo"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["first Todd McFarlane Spider-Man"],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+{
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "288",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1987",
+  "month_published": "May",
+  "cover_art": {
+    "pencil": ["Steve Geiger"],
+    "ink": ["Bob McLeod"]
+  },
+  "page_art": {
+    "pencil": ["Alan Kupperberg"],
+    "ink": ["Jim Fern"],
+    "color": ["George Roussos"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["Jim Owlsey"],
+  "editor": ["Adam Blaustein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "252",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1984",
+  "month_published": "May",
+  "cover_art": {
+    "pencil": ["Ron Frenz"],
+    "ink": ["Klaus Janson"]
+  },
+  "page_art": {
+    "pencil": ["Ron Frenz"],
+    "ink": ["Brett Breeding"],
+    "color": ["Gylnis Wein"],
+    "letters": ["Joe Rosen"]
+  },
+  "writer": ["Roger Stern", "Tom DeFalco"],
+  "editor": ["Danny Fingeroth"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["black Spider-Man suit"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["ties with Marvel Team-Up #141 for first black Spidey suit appearance", "cover homage to Amazing Fantasy #15"],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "210",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1980",
+  "month_published": "Nov",
+  "cover_art": {
+    "pencil": ["John Romita Jr.", "Al Milgrom"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["John Romita Jr."],
+    "ink": ["Joe Sinnott"],
+    "color": ["Bob Sharen"],
+    "letters": ["Gaspar Saladino"]
+  },
+  "writer": ["Denny O'Neil"],
+  "editor": ["Mary Jo Duffy"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["Madame Web"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF/NM",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "200",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1980",
+  "month_published": "Jan",
+  "cover_art": {
+    "pencil": ["John Romita"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["John Romita","Keith Pollard"],
+    "ink": ["Frank Giacoia"],
+    "color": ["Glynis Wein"],
+    "letters": ["John Costanza"]
+  },
+  "writer": ["Stan Lee", "Marv Wolfman"],
+  "editor": ["Marv Wolfman"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": ["origin of Spider-Man retold"],
+    "appraisal_status": "raw",
+    "condition": "VF-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
   "issue": "194",
   "publisher": [
     "Marvel"

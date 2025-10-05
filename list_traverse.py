@@ -12,6 +12,50 @@ for i in collection:
       for x in value:
          print(x["title"] + " #" + x["issue"])
 '''
+# Prints the name of each series in the collection, alphabetically
+def series_list():
+   list_of_series_names = []
+   for series in collection:
+      for key, value in series.items():
+         series_name = key
+         list_of_series_names.append(series_name)
+   #print(sorted(list_of_series_names, reverse=False))
+   #print(list_of_series_names)
+   for name in list_of_series_names:
+      print(name)
+
+# Prints all issues in collection
+def get_all():
+  for series in collection:
+    for key, value in series.items():
+       print("\n" + "---" + key + "---\n")
+       for issue in value:
+          variant = ", ".join(map(str, issue["collectible_criteria"]["variant"]))
+
+          printing = ""
+          signed_by = ""
+
+          if issue["print_run"] > 1:
+                  printing = issue["print_run"]
+                  lastDigit = int(repr(printing)[-1])
+                  if lastDigit == 2:
+                     printing = f"{printing}nd printing\n"
+                  if lastDigit == 3:
+                     printing = f"{printing}rd printing\n"
+                  if lastDigit in (4, 5, 6, 7, 8, 9, 0):
+                     printing = f"{printing}th printing\n"
+
+          if issue["collectible_criteria"]["signature"]["signed"]:
+            signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+
+          print(
+            issue["title"] + " #" + issue["issue"] + "\n" +
+            "published in " + issue["year_published"] + "\n" +
+            printing +
+            variant + "\n" +
+            issue["collectible_criteria"]["appraisal_status"] + " " + issue["collectible_criteria"]["condition"] + "\n" +
+            signed_by
+          )
 
 # Prints all issues (with details) in a specified series
 def get_issues(series_name):
@@ -141,31 +185,27 @@ def get_signed_issues_simplified(series_name):
                if issue["collectible_criteria"]["signature"]["signed"]:
                   print(issue_details)
 
-# Prints the name of each series in the collection, alphabetically
-def series_list():
-   list_of_series_names = []
+# Prints all "first appearance" issues (with details) in a specified series
+def get_fa_issues(series_name):
+   print("\nCollection of " + series_name + " issues:\n")
    for series in collection:
       for key, value in series.items():
-         series_name = key
-         list_of_series_names.append(series_name)
-   #print(sorted(list_of_series_names, reverse=False))
-   #print(list_of_series_names)
-   for name in list_of_series_names:
-      print(name)
+         if key == series_name:
+            for issue in value:
+               title = issue["title"]
+               issue_num = issue["issue"]
+               year = issue["year_published"]
+               variant = " ".join(map(str, issue["collectible_criteria"]["variant"]))
+               condition = issue["collectible_criteria"]["appraisal_status"] + " " + issue["collectible_criteria"]["condition"]
 
+               printing = ""
+               signed_by = ""
+               first_appearances = ""
+               other_notes = ""
 
-# Prints all issues in collection
-def get_all():
-  for series in collection:
-    for key, value in series.items():
-       print("\n" + "---" + key + "---\n")
-       for issue in value:
-          variant = ", ".join(map(str, issue["collectible_criteria"]["variant"]))
+               issue_details = ""
 
-          printing = ""
-          signed_by = ""
-
-          if issue["print_run"] > 1:
+               if issue["print_run"] > 1:
                   printing = issue["print_run"]
                   lastDigit = int(repr(printing)[-1])
                   if lastDigit == 2:
@@ -175,25 +215,54 @@ def get_all():
                   if lastDigit in (4, 5, 6, 7, 8, 9, 0):
                      printing = f"{printing}th printing\n"
 
-          if issue["collectible_criteria"]["signature"]["signed"]:
-            signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+               if issue["collectible_criteria"]["signature"]["signed"]:
+                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
 
-          print(
-            issue["title"] + " #" + issue["issue"] + "\n" +
-            "published in " + issue["year_published"] + "\n" +
-            printing +
-            variant + "\n" +
-            issue["collectible_criteria"]["appraisal_status"] + " " + issue["collectible_criteria"]["condition"] + "\n" +
-            signed_by
-          )
+               if issue["collectible_criteria"]["significant_first_appearances"]:
+                first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
+
+               if issue["collectible_criteria"]["other_notable_criteria"]:
+                other_notes = "other notes: " + ", ".join(map(str, issue["collectible_criteria"]["other_notable_criteria"])) + "\n"
+
+               issue_details =(title  + " #" + issue_num + "\n" +
+                "published in " + year + "\n" +
+                printing +
+                "variant: " + variant + "\n" +
+                "condition: " + condition + "\n" +
+                signed_by + first_appearances + other_notes
+               )
+
+               if issue["collectible_criteria"]["significant_first_appearances"]:
+                  print(issue_details)
+
+# Prints all "first appearance" issues (without details) in a specified series
+def get_fa_issues_simplified(series_name):
+   print("\nCollection of " + series_name + " issues:\n")
+   for series in collection:
+      for key, value in series.items():
+         if key == series_name:
+            for issue in value:
+               title = issue["title"]
+               issue_num = issue["issue"]
+               
+               issue_details = ""
+
+               issue_details =(title  + " #" + issue_num)
+
+               if issue["collectible_criteria"]["significant_first_appearances"]:
+                  print(issue_details)
+
+
 
 #Example function calls 
+#series_list()
+#get_all()
 #get_issues("The Amazing Spider-Man")
 #get_issues_simplified("The Amazing Spider-Man")
 #get_signed_issues("The Amazing Spider-Man")
 #get_signed_issues_simplified("The Amazing Spider-Man")
-#series_list()
-#get_all()
+#get_fa_issues("The Amazing Spider-Man")
+#get_fa_issues_simplified("The Amazing Spider-Man")
 
 #You can can uncomment an example function call above and run this script directly (run: python3 list_traverse.py).
 #Or you can use the method below to call a specific function from the script.

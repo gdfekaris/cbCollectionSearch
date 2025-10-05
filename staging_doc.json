@@ -2,32 +2,32 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
-  "issue": "194",
+  "issue": "299",
   "publisher": [
     "Marvel"
   ],
   "print_run": 1,
-  "year_published": "1979",
-  "month_published": "July",
+  "year_published": "1988",
+  "month_published": "April",
   "cover_art": {
-    "pencil": ["Al Milgrom"],
+    "pencil": ["Todd McFarlane"],
     "ink": []
   },
   "page_art": {
-    "pencil": ["Keith Pollard"],
-    "ink": ["Frank Giacoia"],
-    "color": ["Ben Sean"],
-    "letters": ["Irv Watanabe", "John Costanza"]
+    "pencil": ["Todd McFarlane"],
+    "ink": ["Bob McLeod"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
   },
-  "writer": ["Marv Wolfman"],
-  "editor": ["Marv Wolfman"],
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
   "for_sale": false,
   "price": null,
   "image_ref_base": null,
   "images": [],
   "tags": [],
   "collectible_criteria": {
-    "significant_first_appearances": ["Black Cat (Felicia Hardy)"],
+    "significant_first_appearances": ["Venom in cameo"],
     "signature": {
       "signed": false,
       "person": [],
