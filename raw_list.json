@@ -2,6 +2,578 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
+  "issue": "350",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1991",
+  "month_published": "Aug",
+  "cover_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"]
+  },
+  "page_art": {
+    "pencil": ["Erik Larsen", "Todd Mcfarlane"],
+    "ink": ["Randy Emberlin"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Eric Fein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "346",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1991",
+  "month_published": "April",
+  "cover_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"]
+  },
+  "page_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Eric Fein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "345",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1991",
+  "month_published": "Mar",
+  "cover_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"]
+  },
+  "page_art": {
+    "pencil": ["Mark Bagley"],
+    "ink": ["Randy Emberlin"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Dan Cuddy"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "344",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1991",
+  "month_published": "Feb",
+  "cover_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"]
+  },
+  "page_art": {
+    "pencil": ["Erik Larsen"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Dan Cuddy"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["Cletus Kasady in cameo","first full appearance of Cardiac (Elias Wirtham)"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+{
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "328",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1990",
+  "month_published": "Jan",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "328",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1990",
+  "month_published": "Jan",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "NM+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "325",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1989",
+  "month_published": "Nov",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "316",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1989",
+  "month_published": "June",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": ["first cover appearance of Venom"],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "305",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "Sep",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Gregory Wright"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["Johnny Carson cameo"],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "303",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "Aug",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "300",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "May",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Jim Salicrup","Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["first full appearance of Venom (Eddie Brock)"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["last (symbiote) black suit issue", "iconic cover"],
+    "appraisal_status": "graded",
+    "condition": "9.6",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "300",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "May",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Jim Salicrup","Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["first full appearance of Venom (Eddie Brock)"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["newsstand"],
+    "other_notable_criteria": ["last (symbiote) black suit issue", "iconic cover"],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "300",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1988",
+  "month_published": "May",
+  "cover_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": []
+  },
+  "page_art": {
+    "pencil": ["Todd McFarlane"],
+    "ink": [],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Jim Salicrup","Glenn Herdling"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["first full appearance of Venom (Eddie Brock)"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["last (symbiote) black suit issue", "iconic cover"],
+    "appraisal_status": "raw",
+    "condition": "NM",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
   "issue": "299",
   "publisher": [
     "Marvel"
@@ -167,7 +739,7 @@
       "authentication": null
     },
     "variant": ["direct"],
-    "other_notable_criteria": ["ties with Marvel Team-Up #141 for first black Spidey suit appearance", "cover homage to Amazing Fantasy #15"],
+    "other_notable_criteria": ["ties with Marvel Team-Up #141 for first black Spidey suit appearance", "iconic cover","cover homage to Amazing Fantasy #15"],
     "appraisal_status": "raw",
     "condition": "NM-",
     "grader": "",
@@ -607,7 +1179,7 @@
       "authentication": null
     },
     "variant": [null],
-    "other_notable_criteria": ["iconic cover homage to ASM #33"],
+    "other_notable_criteria": ["cover homage to ASM #33"],
     "appraisal_status": "raw",
     "condition": "VF",
     "grader": "",

@@ -2,42 +2,42 @@
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
-  "issue": "299",
+  "issue": "350",
   "publisher": [
     "Marvel"
   ],
   "print_run": 1,
-  "year_published": "1988",
-  "month_published": "April",
+  "year_published": "1991",
+  "month_published": "Aug",
   "cover_art": {
-    "pencil": ["Todd McFarlane"],
-    "ink": []
+    "pencil": ["Erik Larsen"],
+    "ink": ["Randy Emberlin"]
   },
   "page_art": {
-    "pencil": ["Todd McFarlane"],
-    "ink": ["Bob McLeod"],
+    "pencil": ["Erik Larsen", "Todd Mcfarlane"],
+    "ink": ["Randy Emberlin"],
     "color": ["Bob Sharen"],
     "letters": ["Rick Parker"]
   },
   "writer": ["David Michelinie"],
-  "editor": ["Glenn Herdling"],
+  "editor": ["Eric Fein"],
   "for_sale": false,
   "price": null,
   "image_ref_base": null,
   "images": [],
   "tags": [],
   "collectible_criteria": {
-    "significant_first_appearances": ["Venom in cameo"],
+    "significant_first_appearances": [],
     "signature": {
       "signed": false,
       "person": [],
       "placement": [],
       "authentication": null
     },
-    "variant": ["direct"],
+    "variant": ["newsstand"],
     "other_notable_criteria": [],
     "appraisal_status": "raw",
-    "condition": "VF+",
+    "condition": "VF",
     "grader": "",
     "grade_cert": ""
   }
