@@ -1,5 +1,257 @@
 [ {
     "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "050",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1967",
+    "month_published": "July",
+    "cover_art": {
+      "pencil": ["John Romita"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["John Romita"],
+      "ink": ["Mike Esposito"],
+      "color": [],
+      "letters": ["Sam Rosen"]
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["the Kingpin (Wilson Fisk)"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee", "John Romita"],
+        "placement": ["cover", "first page"],
+        "authentication": null
+      },
+      "variant": [null],
+      "other_notable_criteria": ["origin of Spider-Man retold", "iconic cover", "Johnny Carson cameo"],
+      "appraisal_status": "raw",
+      "condition": "VG",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "043",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1966",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": ["John Romita"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["John Romita"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["first full appearance of Mary Jane Watson"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee", "John Romita"],
+        "placement": ["cover"],
+        "authentication": "CGC"
+      },
+      "variant": [null],
+      "other_notable_criteria": ["origin of the Rhino", "Matt Murdock cameo"],
+      "appraisal_status": "graded",
+      "condition": "8.5",
+      "grader": "CGC",
+      "grade_cert": "1003534005"
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "031",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1965",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Gwen Stacy", "Harry Osborn", "Professor Miles Warren"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee"],
+        "placement": ["cover"],
+        "authentication": "CGC"
+      },
+      "variant": [null],
+      "other_notable_criteria": [],
+      "appraisal_status": "graded",
+      "condition": "8.0",
+      "grader": "CGC",
+      "grade_cert": "1314555001"
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "041",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1966",
+    "month_published": "Oct",
+    "cover_art": {
+      "pencil": ["John Romita"],
+      "ink": ["Mike Esposito"]
+    },
+    "page_art": {
+      "pencil": ["John Romita"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Rhino (Aleksei Sytsevich)"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee", "John Romita"],
+        "placement": ["cover"],
+        "authentication": "CBCS"
+      },
+      "variant": [null],
+      "other_notable_criteria": [],
+      "appraisal_status": "graded",
+      "condition": "5.5",
+      "grader": "CBCS",
+      "grade_cert": "18-1C49A10-001"
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "020",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1965",
+    "month_published": "Jan",
+    "cover_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["the Scorpion (Mac Gargan)"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee"],
+        "placement": ["cover"],
+        "authentication": "CBCS"
+      },
+      "variant": [null],
+      "other_notable_criteria": ["origin of the Scorpion"],
+      "appraisal_status": "graded",
+      "condition": "6.5",
+      "grader": "CBCS",
+      "grade_cert": "22-384C542-003"
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "004",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1963",
+    "month_published": "Sept",
+    "cover_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["the Sandman (William Baker)", "Betty Brant"],
+      "signature": {
+        "signed": true,
+        "person": ["Stan Lee"],
+        "placement": ["cover"],
+        "authentication": "CGC"
+      },
+      "variant": [null],
+      "other_notable_criteria": ["origin of the Sandman"],
+      "appraisal_status": "graded",
+      "condition": "3.0",
+      "grader": "CGC",
+      "grade_cert": "4601627001"
+    }
+  },
+  {
+    "ref_num": null,
     "title": "The Amazing Spider-Man (Annual)",
     "alphabetized_title": "Amazing Spider-Man (Annual)",
     "issue": "25",

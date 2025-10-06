@@ -1,42 +1,42 @@
 {
     "ref_num": null,
-    "title": "The Amazing Spider-Man (Annual)",
-    "alphabetized_title": "Amazing Spider-Man (Annual)",
-    "issue": "25",
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "050",
     "publisher": ["Marvel"],
     "print_run": 1,
-    "year_published": "1991",
-    "month_published": "June",
+    "year_published": "1967",
+    "month_published": "July",
     "cover_art": {
-      "pencil": ["Erik Larsen"],
-      "ink": ["Terry Austin"]
+      "pencil": ["John Romita"],
+      "ink": []
     },
     "page_art": {
-      "pencil": ["Steve Ditko"],
-      "ink": ["Paris Cullins"],
+      "pencil": ["John Romita"],
+      "ink": ["Mike Esposito"],
       "color": [],
-      "letters": []
+      "letters": ["Sam Rosen"]
     },
-    "writer": ["Stan Lee","David Michelinie"],
-    "editor": ["Danny Fingeroth"],
+    "writer": ["Stan Lee"],
+    "editor": ["Stan Lee"],
     "for_sale": false,
     "price": null,
     "image_ref_base": null,
     "images": [],
     "tags": [],
     "collectible_criteria": {
-      "significant_first_appearances": [],
+      "significant_first_appearances": ["the Kingpin (Wilson Fisk"],
       "signature": {
-        "signed": false,
-        "person": [],
-        "placement": [],
+        "signed": true,
+        "person": ["Stan Lee", "John Romita"],
+        "placement": ["cover", "first page"],
         "authentication": null
       },
-      "variant": ["direct"],
-      "other_notable_criteria": [],
+      "variant": [null],
+      "other_notable_criteria": ["origin of Spider-Man retold", "Johnny Carson cameo"],
       "appraisal_status": "raw",
-      "condition": "NM-",
-      "grader": "",
-      "grade_cert": ""
+      "condition": "VG",
+      "grader": null,
+      "grade_cert": null
     }
   }

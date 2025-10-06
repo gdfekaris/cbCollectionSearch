@@ -204,7 +204,7 @@ def get_issues(series_name):
                      printing = f"{printing}th printing\n"
 
                if issue["collectible_criteria"]["signature"]["signed"]:
-                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
 
                if issue["collectible_criteria"]["significant_first_appearances"]:
                 first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
@@ -238,7 +238,7 @@ def get_issues_simplified(series_name):
 
 # Prints all signed issues (with details) in a specified series
 def get_signed_issues(series_name):
-   print("\nCollection of " + series_name + " issues:\n")
+   print("\nCollection of " + series_name + " issues with signatures:\n")
    for series in collection:
       for key, value in series.items():
          if key == series_name:
@@ -267,7 +267,7 @@ def get_signed_issues(series_name):
                      printing = f"{printing}th printing\n"
 
                if issue["collectible_criteria"]["signature"]["signed"]:
-                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
 
                if issue["collectible_criteria"]["significant_first_appearances"]:
                 first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
@@ -288,7 +288,7 @@ def get_signed_issues(series_name):
 
 # Prints all signed issues (without details) in a specified series
 def get_signed_issues_simplified(series_name):
-   print("\nCollection of " + series_name + " issues:\n")
+   print("\nCollection of " + series_name + " issues with signatures:\n")
    for series in collection:
       for key, value in series.items():
          if key == series_name:
@@ -303,7 +303,7 @@ def get_signed_issues_simplified(series_name):
 
 # Prints all "first appearance" issues (with details) in a specified series
 def get_fa_issues(series_name):
-   print("\nCollection of " + series_name + " issues:\n")
+   print("\nCollection of " + series_name + " issues with significant first appearances:\n")
    for series in collection:
       for key, value in series.items():
          if key == series_name:
@@ -332,7 +332,7 @@ def get_fa_issues(series_name):
                      printing = f"{printing}th printing\n"
 
                if issue["collectible_criteria"]["signature"]["signed"]:
-                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
 
                if issue["collectible_criteria"]["significant_first_appearances"]:
                 first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
@@ -353,7 +353,7 @@ def get_fa_issues(series_name):
 
 # Prints all "first appearance" issues (without details) in a specified series
 def get_fa_issues_simplified(series_name):
-   print("\nCollection of " + series_name + " issues:\n")
+   print("\nCollection of " + series_name + " issues with significant first appearances:\n")
    for series in collection:
       for key, value in series.items():
          if key == series_name:
@@ -407,7 +407,7 @@ def get_issue(series_name, issue_num):
                         printing = f"{printing}th printing\n"
 
                   if issue["collectible_criteria"]["signature"]["signed"]:
-                     signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+                     signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
 
                   if issue["collectible_criteria"]["significant_first_appearances"]:
                      first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
