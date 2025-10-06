@@ -3607,6 +3607,75 @@
     ]
   },
   {
+    "Avengers": [
+      {
+        "ref_num": null,
+        "title": "Avengers",
+        "alphabetized_title": "Avengers",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1963",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Dick Ayers"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Dick Ayers"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the Avengers"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "origin of the Avengers",
+            "iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "1.8",
+          "grader": "CGC",
+          "grade_cert": "1329815001"
+        }
+      }
+    ]
+  },
+  {
     "Batman": [
       {
         "ref_num": null,
@@ -4090,11 +4159,11 @@
     ]
   },
   {
-    "Black Panther (2nd series)": [
+    "Black Panther (Marvel Knights)": [
       {
         "ref_num": null,
-        "title": "Black Panther (2nd series)",
-        "alphabetized_title": "Black Panther (2nd series)",
+        "title": "Black Panther (Marvel Knights)",
+        "alphabetized_title": "Black Panther (Marvel Knights)",
         "issue": "001",
         "publisher": [
           "Marvel"
@@ -4160,8 +4229,8 @@
       },
       {
         "ref_num": null,
-        "title": "Black Panther (2nd series)",
-        "alphabetized_title": "Black Panther (2nd series)",
+        "title": "Black Panther (Marvel Knights)",
+        "alphabetized_title": "Black Panther (Marvel Knights)",
         "issue": "001",
         "publisher": [
           "Marvel"
@@ -4547,7 +4616,138 @@
     ]
   },
   {
+    "Captain America": [
+      {
+        "ref_num": null,
+        "title": "Captain America",
+        "alphabetized_title": "Captain America",
+        "issue": "100",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1968",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Syd Shores"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Syd Shores"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "first issue (story and numbering continued from Tales of Suspense #99)",
+            "iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.0",
+          "grader": "CGC",
+          "grade_cert": "1504841003"
+        }
+      }
+    ]
+  },
+  {
     "Daredevil": [
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "016",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1966",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "John Romita"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita"
+          ],
+          "ink": [
+            "Frank Giacoia"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [
+          "Stan Lee"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Masked Marauder"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "John Romita"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "1st John Romita Spider-Man art"
+          ],
+          "appraisal_status": "graded",
+          "condition": "7.0",
+          "grader": "CGC",
+          "grade_cert": "1569307001"
+        }
+      },
       {
         "ref_num": null,
         "title": "Daredevil",
@@ -4605,12 +4805,151 @@
             "newsstand"
           ],
           "other_notable_criteria": [
-            "part 1 of critically acclaimed Born Again storyline"
+            "part 1 of Born Again storyline"
           ],
           "appraisal_status": "raw",
           "condition": "VF+",
           "grader": null,
           "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Fantastic Four": [
+      {
+        "ref_num": null,
+        "title": "Fantastic Four",
+        "alphabetized_title": "Fantastic Four",
+        "issue": "052",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1966",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Joe Sinnott"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": [
+            "Joe Sinnott"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the Black Panther (T'Challa)"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.0",
+          "grader": "CGC",
+          "grade_cert": "1284339002"
+        }
+      }
+    ]
+  },
+  {
+    "Giant-Size X-Men": [
+      {
+        "ref_num": null,
+        "title": "Giant-Size X-Men",
+        "alphabetized_title": "Giant-Size X-Men",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1975",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Gil Kane"
+          ],
+          "ink": [
+            "Dave Cockrum"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Dave Cockrum"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Len Wein"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Storm",
+            "Nightcrawler",
+            "Colossus",
+            "Thunderbird",
+            "the new X-Men"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "2nd appearance of Wolverine",
+            "iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.0",
+          "grader": "CGC",
+          "grade_cert": "1576341001"
         }
       }
     ]
@@ -5304,11 +5643,11 @@
     ]
   },
   {
-    "The Savage Dragon (1st series)": [
+    "The Savage Dragon": [
       {
         "ref_num": null,
-        "title": "The Savage Dragon (1st series)",
-        "alphabetized_title": "Savage Dragon (1st series)",
+        "title": "The Savage Dragon",
+        "alphabetized_title": "Savage Dragon",
         "issue": "001",
         "publisher": [
           "Image"
@@ -5369,11 +5708,11 @@
     ]
   },
   {
-    "Shadowhawk (1st series)": [
+    "Shadowhawk": [
       {
         "ref_num": null,
-        "title": "Shadowhawk (1st series)",
-        "alphabetized_title": "Shadowhawk (1st series)",
+        "title": "Shadowhawk",
+        "alphabetized_title": "Shadowhawk",
         "issue": "003",
         "publisher": [
           "Image"
@@ -6228,11 +6567,75 @@
     ]
   },
   {
-    "Superman (2nd series)": [
+    "Superman": [
       {
         "ref_num": null,
-        "title": "Superman (2nd series)",
-        "alphabetized_title": "Superman (2nd series)",
+        "title": "Superman",
+        "alphabetized_title": "Superman",
+        "issue": "233",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1971",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Neal Adams"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Curt Swain"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Denny O'neil",
+          "E. Nolan Bushnell"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Neal Adams"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "iconic cover",
+            "Clark Kent becomes TV reporter"
+          ],
+          "appraisal_status": "graded",
+          "condition": "8.0",
+          "grader": "CGC",
+          "grade_cert": "1329207002"
+        }
+      }
+    ]
+  },
+  {
+    "Superman (vol 2)": [
+      {
+        "ref_num": null,
+        "title": "Superman (vol 2)",
+        "alphabetized_title": "Superman (vol 2)",
         "issue": "075",
         "publisher": [
           "DC"
@@ -6297,8 +6700,8 @@
       },
       {
         "ref_num": null,
-        "title": "Superman (2nd series)",
-        "alphabetized_title": "Superman (2nd series)",
+        "title": "Superman (vol 2)",
+        "alphabetized_title": "Superman (vol 2)",
         "issue": "082",
         "publisher": [
           "DC"
@@ -6366,77 +6769,11 @@
     ]
   },
   {
-    "Teenage Mutant Ninja Turtles (Image)": [
+    "Teenage Mutant Ninja Turtles": [
       {
         "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Image)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Image)",
-        "issue": "023",
-        "publisher": [
-          "Image"
-        ],
-        "print_run": 1,
-        "year_published": "1999",
-        "month_published": "October",
-        "cover_art": {
-          "pencil": [
-            "Frank Fosco"
-          ],
-          "ink": [
-            "Erik Larsen"
-          ]
-        },
-        "page_art": {
-          "pencil": [
-            "Frank Fosco"
-          ],
-          "ink": [
-            "Frank Fosco"
-          ],
-          "color": [],
-          "letters": [
-            "Pat Brosseau"
-          ]
-        },
-        "writer": [
-          "Gary Carlson"
-        ],
-        "editor": [
-          "Erik Larsen"
-        ],
-        "for_sale": false,
-        "price": null,
-        "image_ref_base": null,
-        "images": [],
-        "tags": [],
-        "collectible_criteria": {
-          "significant_first_appearances": [],
-          "signature": {
-            "signed": false,
-            "person": [],
-            "placement": [],
-            "authentication": null
-          },
-          "variant": [
-            "direct"
-          ],
-          "other_notable_criteria": [
-            "final issue in Image continuity"
-          ],
-          "appraisal_status": "raw",
-          "condition": "NM-",
-          "grader": null,
-          "grade_cert": null
-        }
-      }
-    ]
-  },
-  {
-    "Teenage Mutant Ninja Turtles (Mirage)": [
-      {
-        "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Mirage)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "title": "Teenage Mutant Ninja Turtles",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles",
         "issue": "003",
         "publisher": [
           "Mirage Studios"
@@ -6502,8 +6839,8 @@
       },
       {
         "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Mirage)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "title": "Teenage Mutant Ninja Turtles",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles",
         "issue": "004",
         "publisher": [
           "Mirage Studios"
@@ -6571,8 +6908,8 @@
       },
       {
         "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Mirage)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "title": "Teenage Mutant Ninja Turtles",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles",
         "issue": "010",
         "publisher": [
           "Mirage Studios"
@@ -6636,8 +6973,8 @@
       },
       {
         "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Mirage)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "title": "Teenage Mutant Ninja Turtles",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles",
         "issue": "026",
         "publisher": [
           "Mirage Studios"
@@ -6700,8 +7037,8 @@
       },
       {
         "ref_num": null,
-        "title": "Teenage Mutant Ninja Turtles (Mirage)",
-        "alphabetized_title": "Teenage Mutant Ninja Turtles (Mirage)",
+        "title": "Teenage Mutant Ninja Turtles",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles",
         "issue": "nn Raphael one-shot",
         "publisher": [
           "Mirage Studios"
@@ -6764,6 +7101,72 @@
           ],
           "appraisal_status": "raw",
           "condition": "F",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Teenage Mutant Ninja Turtles (Image)": [
+      {
+        "ref_num": null,
+        "title": "Teenage Mutant Ninja Turtles (Image)",
+        "alphabetized_title": "Teenage Mutant Ninja Turtles (Image)",
+        "issue": "023",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1999",
+        "month_published": "October",
+        "cover_art": {
+          "pencil": [
+            "Frank Fosco"
+          ],
+          "ink": [
+            "Erik Larsen"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Fosco"
+          ],
+          "ink": [
+            "Frank Fosco"
+          ],
+          "color": [],
+          "letters": [
+            "Pat Brosseau"
+          ]
+        },
+        "writer": [
+          "Gary Carlson"
+        ],
+        "editor": [
+          "Erik Larsen"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "final issue in Image continuity"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
           "grader": null,
           "grade_cert": null
         }
@@ -7122,11 +7525,11 @@
     ]
   },
   {
-    "The Transformers (Marvel)": [
+    "The Transformers": [
       {
         "ref_num": null,
-        "title": "The Transformers (Marvel)",
-        "alphabetized_title": "Transformers (Marvel)",
+        "title": "The Transformers",
+        "alphabetized_title": "Transformers",
         "issue": "001",
         "publisher": [
           "Marvel"
@@ -7195,8 +7598,8 @@
       },
       {
         "ref_num": null,
-        "title": "The Transformers (Marvel)",
-        "alphabetized_title": "Transformers (Marvel)",
+        "title": "The Transformers",
+        "alphabetized_title": "Transformers",
         "issue": "024",
         "publisher": [
           "Marvel"
@@ -7535,10 +7938,8 @@
             "direct"
           ],
           "other_notable_criteria": [
-            "perfectly placed signature",
-            "story - Till Death Do Us Part",
-            "excellent single-issue story",
-            "first issue of series"
+            "1st issue in series",
+            "Till Death Do Us Part story"
           ],
           "appraisal_status": "graded",
           "condition": "9.8",

@@ -1,21 +1,21 @@
 {
     "ref_num": null,
-    "title": "The Amazing Spider-Man",
-    "alphabetized_title": "Amazing Spider-Man",
-    "issue": "050",
+    "title": "Daredevil",
+    "alphabetized_title": "Daredevil",
+    "issue": "016",
     "publisher": ["Marvel"],
     "print_run": 1,
-    "year_published": "1967",
-    "month_published": "July",
+    "year_published": "1966",
+    "month_published": "May",
     "cover_art": {
       "pencil": ["John Romita"],
       "ink": []
     },
     "page_art": {
       "pencil": ["John Romita"],
-      "ink": ["Mike Esposito"],
+      "ink": ["Frank Giacoia"],
       "color": [],
-      "letters": ["Sam Rosen"]
+      "letters": []
     },
     "writer": ["Stan Lee"],
     "editor": ["Stan Lee"],
@@ -25,18 +25,18 @@
     "images": [],
     "tags": [],
     "collectible_criteria": {
-      "significant_first_appearances": ["the Kingpin (Wilson Fisk"],
+      "significant_first_appearances": ["Masked Marauder"],
       "signature": {
         "signed": true,
-        "person": ["Stan Lee", "John Romita"],
-        "placement": ["cover", "first page"],
-        "authentication": null
+        "person": ["John Romita"],
+        "placement": ["cover"],
+        "authentication": "CGC"
       },
       "variant": [null],
-      "other_notable_criteria": ["origin of Spider-Man retold", "Johnny Carson cameo"],
-      "appraisal_status": "raw",
-      "condition": "VG",
-      "grader": null,
-      "grade_cert": null
+      "other_notable_criteria": ["1st John Romita Spider-Man art"],
+      "appraisal_status": "graded",
+      "condition": "7.0",
+      "grader": "CGC",
+      "grade_cert": "1569307001"
     }
   }

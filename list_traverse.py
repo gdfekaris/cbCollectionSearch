@@ -112,8 +112,8 @@ def get_all_simplified():
 
 # Prints all graded issues in collection (with details)
 def get_all_graded():
+   print("\nAll graded issues in collection:\n")
    for series in collection:
-      #print(current_series)
       for key, value in series.items():
             flag = True
             current_series = ""
@@ -162,6 +162,33 @@ def get_all_graded():
 
                if flag == True and issue["collectible_criteria"]["appraisal_status"] == "graded":
                   print("\n" + "---" + key + "---\n")
+                  flag = False
+
+               if current_series is not issue["title"]:
+                  flag = True
+
+               if issue["collectible_criteria"]["appraisal_status"] == "graded":
+                  print(issue_details)
+
+# Prints all graded issues in collection (without details)
+def get_all_graded_simplified():
+   print("\nAll graded issues in collection:\n")
+   for series in collection:
+      for key, value in series.items():
+            flag = True
+            current_series = ""
+            for issue in value:
+               current_series = issue["title"]
+
+               title = issue["title"]
+               issue_num = issue["issue"]
+
+               #issue_details = ""
+
+               issue_details = (title  + " #" + issue_num)
+
+               if flag == True and issue["collectible_criteria"]["appraisal_status"] == "graded":
+                  print("\n" + "---" + key + "---")
                   flag = False
 
                if current_series is not issue["title"]:
@@ -435,6 +462,7 @@ def get_issue(series_name, issue_num):
 #get_all_min()
 #get_all_simplified()
 #get_all_graded()
+#get_all_graded_simplified()
 #get_issue("The Amazing Spider-Man", "300")
 #get_issues("The Amazing Spider-Man")
 #get_issues_simplified("The Amazing Spider-Man")
