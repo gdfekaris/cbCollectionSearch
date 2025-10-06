@@ -4,14 +4,9 @@ import json
 with open('ordered_list.json') as data:
   collection = json.load(data)
 
-# example: how to iterate through a specified dictionary in the json list
-'''
-for i in collection:
-   for key, value in i.items():
-    if key == "The Amazing Spider-Man":
-      for x in value:
-         print(x["title"] + " #" + x["issue"])
-'''
+# ---------------------------------SECTION 1---------------------------------------------
+# Functions in this section traverse the whole collection.
+
 # Prints the name of each series in the collection, alphabetically
 def series_list():
    list_of_series_names = []
@@ -118,9 +113,13 @@ def get_all_simplified():
 # Prints all graded issues in collection (with details)
 def get_all_graded():
    for series in collection:
+      #print(current_series)
       for key, value in series.items():
-            #print(value)
+            flag = True
+            current_series = ""
             for issue in value:
+               current_series = issue["title"]
+
                title = issue["title"]
                issue_num = issue["issue"]
                year = issue["year_published"]
@@ -161,12 +160,18 @@ def get_all_graded():
                 signed_by + first_appearances + other_notes
                )
 
+               if flag == True and issue["collectible_criteria"]["appraisal_status"] == "graded":
+                  print("\n" + "---" + key + "---\n")
+                  flag = False
+
+               if current_series is not issue["title"]:
+                  flag = True
+
                if issue["collectible_criteria"]["appraisal_status"] == "graded":
-                  print("\n" + "---" + key + "---\n" + issue_details)
-                  #print(issue_details)
+                  print(issue_details)
 
-#########################################################################################################
-
+# ---------------------------------SECTION 2---------------------------------------------
+# functions in this section traverse a specified series (e.g. "The Amazing Spider-Man").
 
 # Prints all issues (with details) in a specified series
 def get_issues(series_name):
@@ -445,9 +450,17 @@ def get_issue(series_name, issue_num):
 #python3 -c "from list_traverse import series_list; series_list()"
 #python3 -c "from list_traverse import get_all; get_all()"
 
-
 # To Do:
 # need function that returns any specified quality of a specified issue
 # need function that returns all issues with a specified quality in a specified series
+
+# example: how to iterate through a specified dictionary in the json list
+'''
+for i in collection:
+   for key, value in i.items():
+    if key == "The Amazing Spider-Man":
+      for x in value:
+         print(x["title"] + " #" + x["issue"])
+'''
 
 
