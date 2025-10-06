@@ -1,4 +1,945 @@
 [ {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man (Annual)",
+    "alphabetized_title": "Amazing Spider-Man (Annual)",
+    "issue": "25",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1991",
+    "month_published": "June",
+    "cover_art": {
+      "pencil": ["Erik Larsen"],
+      "ink": ["Terry Austin"]
+    },
+    "page_art": {
+      "pencil": ["Steve Ditko"],
+      "ink": ["Paris Cullins"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Stan Lee","David Michelinie"],
+    "editor": ["Danny Fingeroth"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man (Annual)",
+    "alphabetized_title": "Amazing Spider-Man (Annual)",
+    "issue": "15",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1980",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": ["Frank Miller"],
+      "ink": ["Klaus Janson"]
+    },
+    "page_art": {
+      "pencil": ["Keith Pollard"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Denny O'Neil","Roger Stern","Mark Gruenwald"],
+    "editor": ["Tom DeFalco"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "826",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2019",
+    "month_published": "July",
+    "cover_art": {
+      "pencil": ["Patrick Gleason"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Humberto Ramos"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Nick Spencer"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct", "Gleason cover"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "798",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2018",
+    "month_published": "Aug",
+    "cover_art": {
+      "pencil": ["Javier Garron"],
+      "ink": ["Marcos Martin"]
+    },
+    "page_art": {
+      "pencil": ["Stuart Immonen"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Dave Slott"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Norman Osborn as the Red Goblin"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct", "Garron Young Guns cover"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "743",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2015",
+    "month_published": "Jan",
+    "cover_art": {
+      "pencil": ["Gabriel Dell'Otto"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Oliver Coipel"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Dave Slott"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Spider-Punk"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct", "Dell'Otto cover"],
+      "other_notable_criteria": ["Death of Ezekiel Sims"],
+      "appraisal_status": "raw",
+      "condition": "VF+",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "743",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2015",
+    "month_published": "Jan",
+    "cover_art": {
+      "pencil": ["Oliver Coipel"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Oliver Coipel"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Dave Slott"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Spider-Punk"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["Death of Ezekiel Sims"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "698",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2013",
+    "month_published": "Mar",
+    "cover_art": {
+      "pencil": ["Paolo Rivera"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Richard Elson"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Dave Slott"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Superior Spider-man"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "600",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2009",
+    "month_published": "Aug",
+    "cover_art": {
+      "pencil": ["Alex Ross"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["John Romita Jr.","John Romita"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Mark Waid", "Stan Lee"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["Italian edition","Alex Ross cover"],
+      "other_notable_criteria": ["foil cover","J. Jonah Jameson Sr. marries Aunt May"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "600",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2009",
+    "month_published": "Aug",
+    "cover_art": {
+      "pencil": ["Alex Ross"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["John Romita Jr.","John Romita"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Mark Waid", "Stan Lee"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct","Alex Ross cover"],
+      "other_notable_criteria": ["J. Jonah Jameson Sr. marries Aunt May"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "500",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2003",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": ["J. Scott Campbell"],
+      "ink": ["Tim Townsend"]
+    },
+    "page_art": {
+      "pencil": ["John Romita Jr.","John Romita","Scott Hanna"],
+      "ink": [],
+      "color": ["Avalon"],
+      "letters": ["Randy Gentile"]
+    },
+    "writer": ["J. Michael Straczynski"],
+    "editor": ["Axel Alonso","John Miesegaes"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "NM",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "477",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "2001",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": [],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["John Romita Jr.", "Scott Hanna"],
+      "ink": [],
+      "color": [],
+      "letters": ["Richard Starkings and Comicraft"]
+    },
+    "writer": ["J. Michael Straczynski"],
+    "editor": ["Axel Alonso","John Miesegaes"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["black cover","aftermath of September 11th tragedy in New York "],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "400",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1995",
+    "month_published": "April",
+    "cover_art": {
+      "pencil": ["Mark Bagley", "Larry Mahlstedt"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley", "John Romita Jr.", "John Romita Sr."],
+      "ink": [],
+      "color": [],
+      "letters": ["Richard Starkings and Comicraft"]
+    },
+    "writer": ["J.M. DeMatteis", "Stan Lee"],
+    "editor": [ "Danny Fingeroth","Mark Bernardo"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["die-cut cover"],
+      "other_notable_criteria": ["Death of Aunt May","embossed wraparound cover"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "400",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1995",
+    "month_published": "April",
+    "cover_art": {
+      "pencil": ["Mark Bagley", "Larry Mahlstedt"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley", "John Romita Jr.", "John Romita Sr."],
+      "ink": [],
+      "color": [],
+      "letters": ["Richard Starkings and Comicraft"]
+    },
+    "writer": ["J.M. DeMatteis", "Stan Lee"],
+    "editor": ["Danny Fingeroth","Mark Bernardo"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["Death of Aunt May"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "365",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1992",
+    "month_published": "Aug",
+    "cover_art": {
+      "pencil": ["Jack Kirby"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley", "John Romita", "Aaron Lopresti", "Rick Leonardi"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ],
+      "color": [
+        "Bob Sharen"
+      ],
+      "letters": [
+        "Rick Parker"
+      ]
+    },
+    "writer": [
+      "David Michelinie", "Tom DeFalco"
+    ],
+    "editor": [
+      "Eric Fein"
+    ],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Spider-Man 2099"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["hologram cover"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "363",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1992",
+    "month_published": "June",
+    "cover_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ]
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ],
+      "color": [
+        "Bob Sharen"
+      ],
+      "letters": [
+        "Rick Parker"
+      ]
+    },
+    "writer": [
+      "David Michelinie"
+    ],
+    "editor": [
+      "Eric Fein"
+    ],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["third full appearance of Carnage"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "363",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1992",
+    "month_published": "June",
+    "cover_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ]
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ],
+      "color": [
+        "Bob Sharen"
+      ],
+      "letters": [
+        "Rick Parker"
+      ]
+    },
+    "writer": [
+      "David Michelinie"
+    ],
+    "editor": [
+      "Eric Fein"
+    ],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["third full appearance of Carnage"],
+      "appraisal_status": "raw",
+      "condition": "VF",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Amazing Spider-Man",
+    "alphabetized_title": "Amazing Spider-Man",
+    "issue": "362",
+    "publisher": [
+      "Marvel"
+    ],
+    "print_run": 1,
+    "year_published": "1992",
+    "month_published": "May",
+    "cover_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ]
+    },
+    "page_art": {
+      "pencil": [
+        "Mark Bagley"
+      ],
+      "ink": [
+        "Randy Emberlin"
+      ],
+      "color": [
+        "Renee Witterstaetter",
+        "Bob Sharen"
+      ],
+      "letters": [
+        "Rick Parker"
+      ]
+    },
+    "writer": [
+      "David Michelinie"
+    ],
+    "editor": [
+      "Eric Fein",
+      "Danny Fingeroth",
+      "Tom DeFalco"
+    ],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["second full appearance of Carnage"],
+      "appraisal_status": "raw",
+      "condition": "NM-",
+      "grader": "",
+      "grade_cert": ""
+    }
+  },
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "360",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1992",
+  "month_published": "Mar",
+  "cover_art": {
+    "pencil": ["Mark Bagley"],
+    "ink": ["Randy Emberlin"]
+  },
+  "page_art": {
+    "pencil": ["Mark Bagley","Chris Marrinan"],
+    "ink": ["Keith Williams"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Eric Fein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": ["Carnage in cameo"],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "359",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1992",
+  "month_published": "Feb",
+  "cover_art": {
+    "pencil": ["Mark Bagley"],
+    "ink": ["Erik Larsen"]
+  },
+  "page_art": {
+    "pencil": ["Chris Marrinan", "Keith Williams"],
+    "ink": ["Randy Emberlin"],
+    "color": ["Bob Sharen"],
+    "letters": ["Rick Parker"]
+  },
+  "writer": ["David Michelinie"],
+  "editor": ["Eric Fein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": ["ASM #361 cover (with Carnage) appears on letters page promotion"],
+    "appraisal_status": "raw",
+    "condition": "NM-",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+  {
+  "ref_num": null,
+  "title": "The Amazing Spider-Man",
+  "alphabetized_title": "Amazing Spider-Man",
+  "issue": "354",
+  "publisher": [
+    "Marvel"
+  ],
+  "print_run": 1,
+  "year_published": "1991",
+  "month_published": "Nov",
+  "cover_art": {
+    "pencil": ["Mark Bagley"],
+    "ink": ["Erik Larsen"]
+  },
+  "page_art": {
+    "pencil": ["Chris Marrinan", "Keith Williams"],
+    "ink": ["Randy Emberlin"],
+    "color": ["Bob Sharen"],
+    "letters": ["Joe Rosen"]
+  },
+  "writer": ["Al Milgrom"],
+  "editor": ["Eric Fein"],
+  "for_sale": false,
+  "price": null,
+  "image_ref_base": null,
+  "images": [],
+  "tags": [],
+  "collectible_criteria": {
+    "significant_first_appearances": [],
+    "signature": {
+      "signed": false,
+      "person": [],
+      "placement": [],
+      "authentication": null
+    },
+    "variant": ["direct"],
+    "other_notable_criteria": [],
+    "appraisal_status": "raw",
+    "condition": "VF+",
+    "grader": "",
+    "grade_cert": ""
+  }
+},
+{
   "ref_num": null,
   "title": "The Amazing Spider-Man",
   "alphabetized_title": "Amazing Spider-Man",
@@ -1798,7 +2739,7 @@
       "variant": [
         "direct"
       ],
-      "other_notable_criteria": [],
+      "other_notable_criteria": ["second full appearance of Carnage"],
       "appraisal_status": "raw",
       "condition": "VF+",
       "grader": "",
