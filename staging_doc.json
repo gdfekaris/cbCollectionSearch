@@ -1,42 +1,42 @@
 {
     "ref_num": null,
-    "title": "Daredevil",
-    "alphabetized_title": "Daredevil",
-    "issue": "016",
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "200",
     "publisher": ["Marvel"],
     "print_run": 1,
-    "year_published": "1966",
+    "year_published": "1993",
     "month_published": "May",
     "cover_art": {
-      "pencil": ["John Romita"],
+      "pencil": ["Sal Buscema"],
       "ink": []
     },
     "page_art": {
-      "pencil": ["John Romita"],
-      "ink": ["Frank Giacoia"],
+      "pencil": ["Sal Buscema"],
+      "ink": [],
       "color": [],
       "letters": []
     },
-    "writer": ["Stan Lee"],
-    "editor": ["Stan Lee"],
+    "writer": ["J.M. DeMatteis","Carl Potts"],
+    "editor": ["Dan Cuddy"],
     "for_sale": false,
     "price": null,
     "image_ref_base": null,
     "images": [],
     "tags": [],
     "collectible_criteria": {
-      "significant_first_appearances": ["Masked Marauder"],
+      "significant_first_appearances": [],
       "signature": {
-        "signed": true,
-        "person": ["John Romita"],
-        "placement": ["cover"],
-        "authentication": "CGC"
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
       },
-      "variant": [null],
-      "other_notable_criteria": ["1st John Romita Spider-Man art"],
-      "appraisal_status": "graded",
-      "condition": "7.0",
-      "grader": "CGC",
-      "grade_cert": "1569307001"
+      "variant": ["direct"],
+      "other_notable_criteria": ["Holo-grafx cover", "'Death' of Harry Osborne"],
+      "appraisal_status": "raw",
+      "condition": "VF",
+      "grader": null,
+      "grade_cert": null
     }
   }

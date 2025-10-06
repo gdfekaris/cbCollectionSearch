@@ -1,5 +1,339 @@
 [ {
     "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "200",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1993",
+    "month_published": "May",
+    "cover_art": {
+      "pencil": ["Sal Buscema"],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Sal Buscema"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["J.M. DeMatteis","Carl Potts"],
+    "editor": ["Dan Cuddy"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["Holo-grafx cover", "'Death' of Harry Osborne"],
+      "appraisal_status": "raw",
+      "condition": "VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "189",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1992",
+    "month_published": "June",
+    "cover_art": {
+      "pencil": [],
+      "ink": []
+    },
+    "page_art": {
+      "pencil": ["Sal Buscema"],
+      "ink": [],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["J.M. DeMatteis"],
+    "editor": ["Danny Fingeroth"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["hologram cover"],
+      "appraisal_status": "raw",
+      "condition": "NM",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "090",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1984",
+    "month_published": "May",
+    "cover_art": {
+      "pencil": ["Ed Hannigan"],
+      "ink": ["Al Milgrom"]
+    },
+    "page_art": {
+      "pencil": ["Ed Hannigan"],
+      "ink": ["Jim Mooney"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Bill Mantlo"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["direct"],
+      "other_notable_criteria": ["1st black suit in title"],
+      "appraisal_status": "raw",
+      "condition": "VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "064",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1982",
+    "month_published": "Mar",
+    "cover_art": {
+      "pencil": ["Ed Hannigan"],
+      "ink": ["Al Milgrom"]
+    },
+    "page_art": {
+      "pencil": ["Ed Hannigan"],
+      "ink": ["Jim Mooney"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Bill Mantlo"],
+    "editor": [],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Cloak & Dagger"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["origin of Cloak & Dagger"],
+      "appraisal_status": "raw",
+      "condition": "FN/VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },{
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "056",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1979",
+    "month_published": "Mar",
+    "cover_art": {
+      "pencil": ["Frank Miller"],
+      "ink": ["Bob Wiacek"]
+    },
+    "page_art": {
+      "pencil": ["Jim Shooter"],
+      "ink": ["Jim Mooney"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Roger Stern"],
+    "editor": ["Denny O'Neil"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["2nd appearance of Jack O' Lantern"],
+      "appraisal_status": "raw",
+      "condition": "FN/VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },{
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "028",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1979",
+    "month_published": "Mar",
+    "cover_art": {
+      "pencil": ["Al Milgrom"],
+      "ink": ["Keith Pollard"]
+    },
+    "page_art": {
+      "pencil": ["Frank Miller"],
+      "ink": ["Dave Cockrum"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Bill Mantlo"],
+    "editor": ["Al Milgrom"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": [],
+      "appraisal_status": "raw",
+      "condition": "VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "027",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1979",
+    "month_published": "Jan",
+    "cover_art": {
+      "pencil": ["Al Milgrom"],
+      "ink": ["Dave Cockrum"]
+    },
+    "page_art": {
+      "pencil": ["Frank Miller"],
+      "ink": ["Dave Cockrum"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Bill Mantlo"],
+    "editor": ["Mary Jo Duffy"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": [],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["1st Frank Miller Daredevil art"],
+      "appraisal_status": "raw",
+      "condition": "FN/VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
+    "title": "The Spectacular Spider-Man",
+    "alphabetized_title": "Spectacular Spider-Man",
+    "issue": "001",
+    "publisher": ["Marvel"],
+    "print_run": 1,
+    "year_published": "1976",
+    "month_published": "Dec",
+    "cover_art": {
+      "pencil": ["John Romita"],
+      "ink": ["Sal Buscema"]
+    },
+    "page_art": {
+      "pencil": ["John Romita"],
+      "ink": ["Sal Buscema"],
+      "color": [],
+      "letters": []
+    },
+    "writer": ["Gerry Conway"],
+    "editor": ["Gerry Conway"],
+    "for_sale": false,
+    "price": null,
+    "image_ref_base": null,
+    "images": [],
+    "tags": [],
+    "collectible_criteria": {
+      "significant_first_appearances": ["Edward Lansky"],
+      "signature": {
+        "signed": false,
+        "person": [],
+        "placement": [],
+        "authentication": null
+      },
+      "variant": ["newsstand"],
+      "other_notable_criteria": ["1st issue in series"],
+      "appraisal_status": "raw",
+      "condition": "FN/VF",
+      "grader": null,
+      "grade_cert": null
+    }
+  },
+  {
+    "ref_num": null,
     "title": "Daredevil",
     "alphabetized_title": "Daredevil",
     "issue": "016",
@@ -1020,7 +1354,7 @@
         "authentication": null
       },
       "variant": ["die-cut cover"],
-      "other_notable_criteria": ["Death of Aunt May","embossed wraparound cover"],
+      "other_notable_criteria": ["'Death' of Aunt May","embossed wraparound cover"],
       "appraisal_status": "raw",
       "condition": "NM-",
       "grader": "",
@@ -1065,7 +1399,7 @@
         "authentication": null
       },
       "variant": ["direct"],
-      "other_notable_criteria": ["Death of Aunt May"],
+      "other_notable_criteria": ["'Death' of Aunt May"],
       "appraisal_status": "raw",
       "condition": "NM-",
       "grader": "",
