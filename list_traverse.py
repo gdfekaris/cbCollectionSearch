@@ -434,19 +434,22 @@ def get_issue(series_name, issue_num):
 #get_all()
 #get_all_min()
 #get_all_simplified()
+#get_all_graded()
+#get_issue("The Amazing Spider-Man", "300")
 #get_issues("The Amazing Spider-Man")
 #get_issues_simplified("The Amazing Spider-Man")
-#get_issue("The Amazing Spider-Man", "300")
 #get_signed_issues("The Amazing Spider-Man")
 #get_signed_issues_simplified("The Amazing Spider-Man")
 #get_fa_issues("The Amazing Spider-Man")
 #get_fa_issues_simplified("The Amazing Spider-Man")
 
-#You can can uncomment an example function call above and run this script directly (run: python3 list_traverse.py).
+#You can can uncomment an example function call above and run this script directly.
+#(e.g. run: python3 list_traverse.py)
 #Or you can use the method below to call a specific function from the script.
 
 #Example calls from command line:
 #python3 -c "from list_traverse import get_issues; get_issues('The Amazing Spider-Man')"
+#python3 -c "from list_traverse import get_issue; get_issue('The Amazing Spider-Man','300')"
 #python3 -c "from list_traverse import series_list; series_list()"
 #python3 -c "from list_traverse import get_all; get_all()"
 
@@ -462,5 +465,4 @@ for i in collection:
       for x in value:
          print(x["title"] + " #" + x["issue"])
 '''
-
 
