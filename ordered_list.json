@@ -8404,7 +8404,7 @@
               "Stan Lee"
             ],
             "placement": [
-              "front cover"
+              "cover"
             ],
             "authentication": "CGC"
           },
@@ -8419,6 +8419,241 @@
           "condition": "9.8",
           "grader": "CGC",
           "grade_cert": "1176969002"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man",
+        "alphabetized_title": "Web of Spider-Man",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1985",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Charles Vess"
+          ],
+          "ink": [
+            "Charles Vess"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Greg LaRocque"
+          ],
+          "ink": [
+            "Jim Mooney"
+          ],
+          "color": [
+            "George Bell"
+          ],
+          "letters": [
+            "Janice Chiang"
+          ]
+        },
+        "writer": [
+          "Louise Jones-Simonson"
+        ],
+        "editor": [
+          "Jim Owsley"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "1st issue in series",
+            "Till Death Do Us Part story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man",
+        "alphabetized_title": "Web of Spider-Man",
+        "issue": "090",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Alex Saviuk"
+          ],
+          "ink": [
+            "Sam de la Rosa"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Howard Mackie"
+        ],
+        "editor": [
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "gatefold Spider-Man 2099 poster by Rick Leonardi",
+            "hologram cover"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man",
+        "alphabetized_title": "Web of Spider-Man",
+        "issue": "096",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Mark Texeira"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Alex Saviuk"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Howard Mackie"
+        ],
+        "editor": [
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man",
+        "alphabetized_title": "Web of Spider-Man",
+        "issue": "100",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Alex Saviuk"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Alex Saviuk"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Terry Kavanagh"
+        ],
+        "editor": [
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the 'Spider-Armor'"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Holo-grafx cover",
+            "origin of Nightwatch"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
         }
       }
     ]

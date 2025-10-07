@@ -1,31 +1,31 @@
 {
     "ref_num": null,
-    "title": "The Spectacular Spider-Man",
-    "alphabetized_title": "Spectacular Spider-Man",
-    "issue": "200",
+    "title": "Web of Spider-Man",
+    "alphabetized_title": "Web of Spider-Man",
+    "issue": "100",
     "publisher": ["Marvel"],
     "print_run": 1,
     "year_published": "1993",
     "month_published": "May",
     "cover_art": {
-      "pencil": ["Sal Buscema"],
+      "pencil": ["Alex Saviuk"],
       "ink": []
     },
     "page_art": {
-      "pencil": ["Sal Buscema"],
+      "pencil": ["Alex Saviuk"],
       "ink": [],
       "color": [],
       "letters": []
     },
-    "writer": ["J.M. DeMatteis","Carl Potts"],
-    "editor": ["Dan Cuddy"],
+    "writer": ["Terry Kavanagh"],
+    "editor": ["Tom DeFalco"],
     "for_sale": false,
     "price": null,
     "image_ref_base": null,
     "images": [],
     "tags": [],
     "collectible_criteria": {
-      "significant_first_appearances": [],
+      "significant_first_appearances": ["the 'Spider-Armor'"],
       "signature": {
         "signed": false,
         "person": [],
@@ -33,9 +33,9 @@
         "authentication": null
       },
       "variant": ["direct"],
-      "other_notable_criteria": ["Holo-grafx cover", "'Death' of Harry Osborne"],
+      "other_notable_criteria": ["Holo-grafx cover","orgin of Nightwatch"],
       "appraisal_status": "raw",
-      "condition": "VF",
+      "condition": "VF+",
       "grader": null,
       "grade_cert": null
     }

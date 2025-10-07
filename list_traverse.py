@@ -202,7 +202,14 @@ def get_all_graded_simplified():
 
 # Prints all issues (with details) in a specified series
 def get_issues(series_name):
-   print("\nCollection of " + series_name + " issues:\n")
+   issue_count = 0
+   for series in collection:
+      for key, value in series.items():
+         if key == series_name:
+            for issue in value:
+               issue_count +=1
+   print("\nCollection of " + series_name + " issues (" + str(issue_count) + "):\n")
+   
    for series in collection:
       for key, value in series.items():
          if key == series_name:
