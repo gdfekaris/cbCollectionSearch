@@ -10,12 +10,30 @@ with open('ordered_list.json') as data:
 # Prints the name of each series in the collection, alphabetically
 def series_list():
    list_of_series_names = []
+   print("\n---All Series in Collection---\n")
    for series in collection:
+      #issue_count = 0
       for key, value in series.items():
          series_name = key
+         #for issue in value:
+            #issue_count +=1
+         #list_of_series_names.append(series_name + " [" + str(issue_count) + "]")
          list_of_series_names.append(series_name)
-   #print(sorted(list_of_series_names, reverse=False))
-   #print(list_of_series_names)
+   for name in list_of_series_names:
+      print(name)
+
+# Prints the name of each series in the collection, alphabetically, and the number of issues collected in that series
+def series_list_issue_count():
+   list_of_series_names = []
+   print("\n---All Series in Collection (plus issue count)---\n")
+   for series in collection:
+      issue_count = 0
+      for key, value in series.items():
+         series_name = key
+         for issue in value:
+            issue_count +=1
+         list_of_series_names.append("[" + str(issue_count) + "]  " + series_name)
+         #list_of_series_names.append(series_name)
    for name in list_of_series_names:
       print(name)
 
@@ -197,6 +215,92 @@ def get_all_graded_simplified():
                if issue["collectible_criteria"]["appraisal_status"] == "graded":
                   print(issue_details)
 
+# Prints all signed issues in collection (with details)
+def get_all_signed():
+   print("\nAll signed issues in collection:\n")
+   for series in collection:
+      for key, value in series.items():
+            flag = True
+            current_series = ""
+            for issue in value:
+               current_series = issue["title"]
+
+               title = issue["title"]
+               issue_num = issue["issue"]
+               year = issue["year_published"]
+               variant = ", ".join(map(str, issue["collectible_criteria"]["variant"]))
+               condition = issue["collectible_criteria"]["appraisal_status"] + " " + issue["collectible_criteria"]["condition"]
+
+               printing = ""
+               signed_by = ""
+               first_appearances = ""
+               other_notes = ""
+
+               issue_details = ""
+
+               if issue["print_run"] > 1:
+                  printing = issue["print_run"]
+                  lastDigit = int(repr(printing)[-1])
+                  if lastDigit == 2:
+                     printing = f"{printing}nd printing\n"
+                  if lastDigit == 3:
+                     printing = f"{printing}rd printing\n"
+                  if lastDigit in (4, 5, 6, 7, 8, 9, 0):
+                     printing = f"{printing}th printing\n"
+
+               if issue["collectible_criteria"]["signature"]["signed"]:
+                  signed_by = "signed by " + " and ".join(map(str, issue["collectible_criteria"]["signature"]["person"])) + " on " + " ".join(map(str, issue["collectible_criteria"]["signature"]["placement"])) + "\n"
+
+               if issue["collectible_criteria"]["significant_first_appearances"]:
+                first_appearances = "first appearances: " + ", ".join(map(str, issue["collectible_criteria"]["significant_first_appearances"])) + "\n"
+
+               if issue["collectible_criteria"]["other_notable_criteria"]:
+                other_notes = "other notes: " + ", ".join(map(str, issue["collectible_criteria"]["other_notable_criteria"])) + "\n"
+
+               issue_details =(title  + " #" + issue_num + "\n" +
+                "published in " + year + "\n" +
+                printing +
+                "variant: " + variant + "\n" +
+                "condition: " + condition + "\n" +
+                signed_by + first_appearances + other_notes
+               )
+
+               if flag == True and issue["collectible_criteria"]["signature"]["signed"]:
+                  print("\n" + "---" + key + "---\n")
+                  flag = False
+
+               if current_series is not issue["title"]:
+                  flag = True
+
+               if issue["collectible_criteria"]["signature"]["signed"]:
+                  print(issue_details)
+
+# Prints all signed issues in collection (without details)
+def get_all_signed_simplified():
+   print("\nAll signed issues in collection:\n")
+   for series in collection:
+      for key, value in series.items():
+            flag = True
+            current_series = ""
+            for issue in value:
+               current_series = issue["title"]
+
+               title = issue["title"]
+               issue_num = issue["issue"]
+
+               #issue_details = ""
+
+               issue_details = (title  + " #" + issue_num)
+
+               if flag == True and issue["collectible_criteria"]["signature"]["signed"]:
+                  print("\n" + "---" + key + "---")
+                  flag = False
+
+               if current_series is not issue["title"]:
+                  flag = True
+
+               if issue["collectible_criteria"]["signature"]["signed"]:
+                  print(issue_details)
 # ---------------------------------SECTION 2---------------------------------------------
 # functions in this section traverse a specified series (e.g. "The Amazing Spider-Man").
 
@@ -208,7 +312,7 @@ def get_issues(series_name):
          if key == series_name:
             for issue in value:
                issue_count +=1
-   print("\nCollection of " + series_name + " issues (" + str(issue_count) + "):\n")
+   print("\nCollection of " + series_name + " issues [" + str(issue_count) + "]:\n")
    
    for series in collection:
       for key, value in series.items():
@@ -465,11 +569,14 @@ def get_issue(series_name, issue_num):
 
 #Example function calls 
 #series_list()
+#series_list_issue_count()
 #get_all()
 #get_all_min()
 #get_all_simplified()
 #get_all_graded()
 #get_all_graded_simplified()
+#get_all_signed()
+#get_all_signed_simplified()
 #get_issue("The Amazing Spider-Man", "300")
 #get_issues("The Amazing Spider-Man")
 #get_issues_simplified("The Amazing Spider-Man")

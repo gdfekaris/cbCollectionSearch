@@ -1,5 +1,65 @@
 [
   {
+    "Action Comics": [
+      {
+        "ref_num": null,
+        "title": "Action Comics",
+        "alphabetized_title": "Action Comics",
+        "issue": "252",
+        "publisher": [
+          "May"
+        ],
+        "print_run": 1,
+        "year_published": "1959",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Curt Swan"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Robert Bernstein",
+          "Otto Binder"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Supergirl (Kara Zor-El)",
+            "Metallo"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "origin of Supergirl"
+          ],
+          "appraisal_status": "raw",
+          "condition": "G-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
     "The Amazing Spider-Man": [
       {
         "ref_num": null,
@@ -3676,6 +3736,67 @@
     ]
   },
   {
+    "Avengers (Annual)": [
+      {
+        "ref_num": null,
+        "title": "Avengers (Annual)",
+        "alphabetized_title": "Avengers (Annual)",
+        "issue": "010",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": null,
+        "cover_art": {
+          "pencil": [
+            "Al Milgrom"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Michael Golden"
+          ],
+          "ink": [
+            "Armando Gil"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Chris Claremont"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Rogue",
+            "Madeline Pryor"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.6",
+          "grader": "CGC",
+          "grade_cert": "2050610008"
+        }
+      }
+    ]
+  },
+  {
     "Batman": [
       {
         "ref_num": null,
@@ -4752,6 +4873,614 @@
         "ref_num": null,
         "title": "Daredevil",
         "alphabetized_title": "Daredevil",
+        "issue": "168",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Elektra"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Frank Miller"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "origin of Elektra"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VG",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "168",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Elektra"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "origin of Elektra"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VG",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "172",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "172",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee",
+              "Frank Miller",
+              "Klaus Janson"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "174",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "the Hand",
+            "Kirigi"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "176",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1981",
+        "month_published": "Nov",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ]
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Frank Miller",
+              "Klaus Janson",
+              "Jim Shooter"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CBCS"
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "'death' of Kirigi"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.0",
+          "grader": "CBCS",
+          "grade_cert": "22-1653D6D-077"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "181",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1982",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Klaus Janson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "'death' of Elektra"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "191",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1983",
+        "month_published": "Feb",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Lynn Varley"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Terry Austin"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "191",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1983",
+        "month_published": "Feb",
+        "cover_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Lynn Varley"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Frank Miller"
+          ],
+          "ink": [
+            "Terry Austin"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Denny O'Neil"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "227",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1986",
+        "month_published": "February",
+        "cover_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ],
+          "color": [
+            "Christie Scheele"
+          ],
+          "letters": [
+            "Joe Rosen"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Ralph Macchio",
+          "Craig Anderson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "part 1 of Born Again story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "FN",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
         "issue": "227",
         "publisher": [
           "Marvel"
@@ -4805,7 +5534,186 @@
             "newsstand"
           ],
           "other_notable_criteria": [
-            "part 1 of Born Again storyline"
+            "part 1 of Born Again story"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "232",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1986",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "David Mazzucchelli"
+          ],
+          "ink": [
+            "David Mazzucchelli"
+          ],
+          "color": [
+            "Christie Scheele"
+          ],
+          "letters": [
+            "Joe Rosen"
+          ]
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [
+          "Ralph Macchio",
+          "Craig Anderson"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Nuke (Frank Simpson)"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "270",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1989",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Al Williamson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Al Williamson"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Ann Nocenti"
+        ],
+        "editor": [
+          "Ralph Macchio"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Blackheart"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil",
+        "alphabetized_title": "Daredevil",
+        "issue": "321",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1993",
+        "month_published": "Oct",
+        "cover_art": {
+          "pencil": [
+            "Scott McDaniel"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Scott McDaniel"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "D.G. Chichester"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "glow-in-the-dark edition"
+          ],
+          "other_notable_criteria": [
+            "wraparound cover"
           ],
           "appraisal_status": "raw",
           "condition": "VF+",
@@ -4816,7 +5724,281 @@
     ]
   },
   {
+    "Daredevil (Annual)": [
+      {
+        "ref_num": null,
+        "title": "Daredevil (Annual)",
+        "alphabetized_title": "Daredevil (Annual)",
+        "issue": "003",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1972",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "John Romita"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VG",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Daredevil (Annual)",
+        "alphabetized_title": "Daredevil (Annual)",
+        "issue": "008",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Joe Quesada"
+          ],
+          "ink": [
+            "Al Williamson"
+          ]
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Greg Wright",
+          "George Caragonne"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Elektra: Assassin": [
+      {
+        "ref_num": null,
+        "title": "Elektra: Assassin",
+        "alphabetized_title": "Elektra: Assassin",
+        "issue": "001",
+        "publisher": [
+          "Marvel/Epic"
+        ],
+        "print_run": 1,
+        "year_published": "1986",
+        "month_published": "Aug",
+        "cover_art": {
+          "pencil": [
+            "Bill Sienkiewicz"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Elektra: Assassin",
+        "alphabetized_title": "Elektra: Assassin",
+        "issue": "006",
+        "publisher": [
+          "Marvel/Epic"
+        ],
+        "print_run": 1,
+        "year_published": "1987",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Bill Sienkiewicz"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Frank Miller"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Bill Sienkiewicz"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
     "Fantastic Four": [
+      {
+        "ref_num": null,
+        "title": "Fantastic Four",
+        "alphabetized_title": "Fantastic Four",
+        "issue": "017",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1963",
+        "month_published": "Aug",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CBCS"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "from the personal collection of Duke Caldwell",
+            "President John F. Kennedy cameo"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.5",
+          "grader": "CBCS",
+          "grade_cert": "24-30A4D09-001"
+        }
+      },
       {
         "ref_num": null,
         "title": "Fantastic Four",
@@ -4879,6 +6061,71 @@
           "condition": "5.0",
           "grader": "CGC",
           "grade_cert": "1284339002"
+        }
+      }
+    ]
+  },
+  {
+    "The Flash": [
+      {
+        "ref_num": null,
+        "title": "The Flash",
+        "alphabetized_title": "Flash",
+        "issue": "123",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1961",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Carmine Infantino"
+          ],
+          "ink": [
+            "Murphy Anderson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Carmine Infantino"
+          ],
+          "ink": [
+            "Joe Giella"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Gardner Fox"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "1st mention of Earth 2",
+            "1st Golden Age Flash in Silver Age"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "origin of GA Flash and SA Flash"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.0",
+          "grader": "CGC",
+          "grade_cert": "4561398006"
         }
       }
     ]
@@ -5009,6 +6256,136 @@
           "condition": "VF+",
           "grader": null,
           "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Green Lantern": [
+      {
+        "ref_num": null,
+        "title": "Green Lantern",
+        "alphabetized_title": "Green Lantern",
+        "issue": "087",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1971",
+        "month_published": "Dec",
+        "cover_art": {
+          "pencil": [
+            "Neal Adams"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Neal Adams"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Denny O'Neil",
+          "Elliot S. Maggin"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "John Stewart"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Neal Adams"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "2nd appearance of Guy Gardner",
+            "1st Eliot S. Maggin story"
+          ],
+          "appraisal_status": "graded",
+          "condition": "8.0",
+          "grader": "CGC",
+          "grade_cert": "1589602007"
+        }
+      }
+    ]
+  },
+  {
+    "Justice League of America": [
+      {
+        "ref_num": null,
+        "title": "Justice League of America",
+        "alphabetized_title": "Justice League of America",
+        "issue": "001",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "1960",
+        "month_published": "Oct",
+        "cover_art": {
+          "pencil": [
+            "Murphy Anderson"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Mike Sekowsky"
+          ],
+          "ink": [
+            "Bernard Sachs"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Gardner Fox"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Despero"
+          ],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "origin of Despero",
+            "1st issue in series",
+            "letter from Roy Thomas"
+          ],
+          "appraisal_status": "graded",
+          "condition": "1.8",
+          "grader": "CGC",
+          "grade_cert": "4522332002"
         }
       }
     ]
@@ -5430,7 +6807,7 @@
               "Jack Kirby"
             ],
             "placement": [
-              "front cover"
+              "cover"
             ],
             "authentication": "CBCS"
           },
@@ -5439,8 +6816,8 @@
           ],
           "other_notable_criteria": [
             "rare cover signature of Jack Kirby",
-            "fourth appearance of Darkseid",
-            "first issue of series"
+            "4th appearance of Darkseid",
+            "1st issue in series"
           ],
           "appraisal_status": "graded",
           "condition": "7.5",
@@ -5844,6 +7221,62 @@
   },
   {
     "Spawn": [
+      {
+        "ref_num": null,
+        "title": "Spawn",
+        "alphabetized_title": "Spawn",
+        "issue": "001",
+        "publisher": [
+          "Image"
+        ],
+        "print_run": 1,
+        "year_published": "1997",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Todd McFarlane"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "black & white edition"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "2553802002"
+        }
+      },
       {
         "ref_num": null,
         "title": "Spawn",
@@ -6644,6 +8077,142 @@
             "authentication": null
           },
           "variant": [
+            "direct",
+            "platinum cover"
+          ],
+          "other_notable_criteria": [
+            "iconic cover",
+            "first issue of McFarlane's own Spider-Man series"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "regular green/yellow cover"
+          ],
+          "other_notable_criteria": [
+            "iconic cover",
+            "first issue of McFarlane's own Spider-Man series"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
             "newsstand",
             "regular green/yellow cover"
           ],
@@ -6651,6 +8220,560 @@
             "iconic cover",
             "first issue of McFarlane's own Spider-Man series"
           ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "002",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "August",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "003",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "004",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "Oct",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "005",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1990",
+        "month_published": "Dec",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "012",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1991",
+        "month_published": "July",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane"
+        ],
+        "editor": [
+          "Dave Cuddy",
+          "Jim Salicrup",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "Wolverine appearance"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "016",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1991",
+        "month_published": "Nov",
+        "cover_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Todd McFarlane"
+          ],
+          "ink": [
+            "Todd McFarlane"
+          ],
+          "color": [
+            "Bob Sharen"
+          ],
+          "letters": [
+            "Rick Parker"
+          ]
+        },
+        "writer": [
+          "Todd McFarlane",
+          "Danny Fingeroth"
+        ],
+        "editor": [
+          "Danny Fingeroth",
+          "Eric Fein"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "special sideways issue"
+          ],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "021",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "April",
+        "cover_art": {
+          "pencil": [
+            "Erik Larsen"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Erik Larsen"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Erik Larsen"
+        ],
+        "editor": [
+          "Danny Fingeroth",
+          "Eric Fein"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "026",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita",
+            "Mark Bagley"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Tom DeFalco"
+        ],
+        "editor": [
+          "Danny Fingeroth"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "hologram cover",
+            "Spidey origin retold"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": "",
+          "grade_cert": ""
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Spider-Man",
+        "alphabetized_title": "Spider-Man",
+        "issue": "041",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "Sept",
+        "cover_art": {
+          "pencil": [
+            "Jae Lee"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Jae Lee"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Terry Kavanagh"
+        ],
+        "editor": [
+          "Danny Fingeroth",
+          "Tom DeFalco"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [],
           "appraisal_status": "raw",
           "condition": "VF+",
           "grader": "",
@@ -7046,6 +9169,68 @@
         "ref_num": null,
         "title": "Superman",
         "alphabetized_title": "Superman",
+        "issue": "199",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1967",
+        "month_published": "Aug",
+        "cover_art": {
+          "pencil": [
+            "Carmine Infantino"
+          ],
+          "ink": [
+            "Murphy Anderson"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Curt Swan"
+          ],
+          "ink": [
+            "George Klein"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Jim Shooter"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jim Shooter"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "1st Superman vs. Flash race"
+          ],
+          "appraisal_status": "graded",
+          "condition": "5.5",
+          "grader": "CGC",
+          "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Superman",
+        "alphabetized_title": "Superman",
         "issue": "233",
         "publisher": [
           "DC"
@@ -7238,6 +9423,132 @@
           "condition": "NM",
           "grader": null,
           "grade_cert": null
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "Superman (vol 2)",
+        "alphabetized_title": "Superman (vol 2)",
+        "issue": "204",
+        "publisher": [
+          "DC"
+        ],
+        "print_run": 1,
+        "year_published": "2004",
+        "month_published": "June",
+        "cover_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "Jim Lee"
+          ],
+          "ink": [
+            "Scott Williams"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Brian Azzarello"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Jim Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "iconic cover"
+          ],
+          "appraisal_status": "graded",
+          "condition": "9.8",
+          "grader": "CGC",
+          "grade_cert": "4337301006"
+        }
+      }
+    ]
+  },
+  {
+    "Tales of Suspense": [
+      {
+        "ref_num": null,
+        "title": "Tales of Suspense",
+        "alphabetized_title": "Tales of Suspense",
+        "issue": "058",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1964",
+        "month_published": "Oct",
+        "cover_art": {
+          "pencil": [
+            "Jack Kirby"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Don Heck"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Stan Lee"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            null
+          ],
+          "other_notable_criteria": [
+            "1st Captain America vs. Iron Man",
+            "2nd appearance of Kraven",
+            "last Tales of the Watcher story"
+          ],
+          "appraisal_status": "graded",
+          "condition": "4.5",
+          "grader": "CGC",
+          "grade_cert": "1146081002"
         }
       }
     ]
@@ -7999,6 +10310,146 @@
     ]
   },
   {
+    "The Uncanny X-Men": [
+      {
+        "ref_num": null,
+        "title": "The Uncanny X-Men",
+        "alphabetized_title": "The Uncanny X-Men",
+        "issue": "117",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1979",
+        "month_published": "Jan",
+        "cover_art": {
+          "pencil": [
+            "Dave Cockrum"
+          ],
+          "ink": [
+            "Terry Austin"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "John Byrne"
+          ],
+          "ink": [
+            "Terry Austin"
+          ],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Chris Claremont",
+          "John Byrne"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [
+            "Shadow King (Amahl Farouk)"
+          ],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee",
+              "Chris Claremeont"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "CGC"
+          },
+          "variant": [
+            "newsstand"
+          ],
+          "other_notable_criteria": [
+            "origin of Professor Xavier"
+          ],
+          "appraisal_status": "graded",
+          "condition": "8.5",
+          "grader": "CGC",
+          "grade_cert": "1518868013"
+        }
+      },
+      {
+        "ref_num": null,
+        "title": "The Uncanny X-Men",
+        "alphabetized_title": "Uncanny X-Men",
+        "issue": "300",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "1992",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Dan Green"
+          ]
+        },
+        "page_art": {
+          "pencil": [
+            "John Romita Jr."
+          ],
+          "ink": [
+            "Dan Green"
+          ],
+          "color": [
+            "Steve Buccellato"
+          ],
+          "letters": [
+            "Chris Eliopoulos"
+          ]
+        },
+        "writer": [
+          "Scott Lobdell"
+        ],
+        "editor": [
+          "Bob Harras",
+          "Lisa Patrick"
+        ],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": true,
+            "person": [
+              "Stan Lee"
+            ],
+            "placement": [
+              "cover"
+            ],
+            "authentication": "certificate"
+          },
+          "variant": [
+            "direct"
+          ],
+          "other_notable_criteria": [
+            "foil cover",
+            "90s cover enhancement"
+          ],
+          "appraisal_status": "raw",
+          "condition": "NM-",
+          "grader": null,
+          "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
     "The Transformers": [
       {
         "ref_num": null,
@@ -8197,80 +10648,6 @@
           ],
           "other_notable_criteria": [
             "gold embossed cover",
-            "90s cover enhancement"
-          ],
-          "appraisal_status": "raw",
-          "condition": "NM-",
-          "grader": null,
-          "grade_cert": null
-        }
-      }
-    ]
-  },
-  {
-    "The Uncanny X-Men": [
-      {
-        "ref_num": null,
-        "title": "The Uncanny X-Men",
-        "alphabetized_title": "Uncanny X-Men",
-        "issue": "300",
-        "publisher": [
-          "Marvel"
-        ],
-        "print_run": 1,
-        "year_published": "1992",
-        "month_published": "May",
-        "cover_art": {
-          "pencil": [
-            "John Romita Jr."
-          ],
-          "ink": [
-            "Dan Green"
-          ]
-        },
-        "page_art": {
-          "pencil": [
-            "John Romita Jr."
-          ],
-          "ink": [
-            "Dan Green"
-          ],
-          "color": [
-            "Steve Buccellato"
-          ],
-          "letters": [
-            "Chris Eliopoulos"
-          ]
-        },
-        "writer": [
-          "Scott Lobdell"
-        ],
-        "editor": [
-          "Bob Harras",
-          "Lisa Patrick"
-        ],
-        "for_sale": false,
-        "price": null,
-        "image_ref_base": null,
-        "images": [],
-        "tags": [],
-        "collectible_criteria": {
-          "significant_first_appearances": [],
-          "signature": {
-            "signed": true,
-            "person": [
-              "Stan Lee"
-            ],
-            "placement": [
-              "cover"
-            ],
-            "authentication": "certificate"
-          },
-          "variant": [
-            "direct"
-          ],
-          "other_notable_criteria": [
-            "foil cover",
             "90s cover enhancement"
           ],
           "appraisal_status": "raw",
@@ -8654,6 +11031,63 @@
           "condition": "VF+",
           "grader": null,
           "grade_cert": null
+        }
+      }
+    ]
+  },
+  {
+    "Web of Spider-Man (vol 3)": [
+      {
+        "ref_num": null,
+        "title": "Web of Spider-Man (vol 3)",
+        "alphabetized_title": "Web of Spider-Man (vol 3)",
+        "issue": "001",
+        "publisher": [
+          "Marvel"
+        ],
+        "print_run": 1,
+        "year_published": "2024",
+        "month_published": "May",
+        "cover_art": {
+          "pencil": [
+            "Paco Medina"
+          ],
+          "ink": []
+        },
+        "page_art": {
+          "pencil": [
+            "Greg Land"
+          ],
+          "ink": [],
+          "color": [],
+          "letters": []
+        },
+        "writer": [
+          "Steve Foxe"
+        ],
+        "editor": [],
+        "for_sale": false,
+        "price": null,
+        "image_ref_base": null,
+        "images": [],
+        "tags": [],
+        "collectible_criteria": {
+          "significant_first_appearances": [],
+          "signature": {
+            "signed": false,
+            "person": [],
+            "placement": [],
+            "authentication": null
+          },
+          "variant": [
+            "direct",
+            "Medina cover"
+          ],
+          "other_notable_criteria": [],
+          "appraisal_status": "raw",
+          "condition": "VF+",
+          "grader": "",
+          "grade_cert": ""
         }
       }
     ]

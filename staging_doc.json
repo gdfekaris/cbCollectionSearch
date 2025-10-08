@@ -1,42 +1,46 @@
-{
+ {
     "ref_num": null,
-    "title": "Web of Spider-Man",
-    "alphabetized_title": "Web of Spider-Man",
-    "issue": "100",
-    "publisher": ["Marvel"],
+    "title": "Web of Spider-Man (vol 3)",
+    "alphabetized_title": "Web of Spider-Man (vol 3)",
+    "issue": "001",
+    "publisher": [
+      "Marvel"
+    ],
     "print_run": 1,
-    "year_published": "1993",
+    "year_published": "2024",
     "month_published": "May",
     "cover_art": {
-      "pencil": ["Alex Saviuk"],
+      "pencil": ["Paco Medina"],
       "ink": []
     },
     "page_art": {
-      "pencil": ["Alex Saviuk"],
+      "pencil": [
+        "Greg Land"
+      ],
       "ink": [],
       "color": [],
       "letters": []
     },
-    "writer": ["Terry Kavanagh"],
-    "editor": ["Tom DeFalco"],
+    "writer": ["Steve Foxe"],
+    "editor": [],
     "for_sale": false,
     "price": null,
     "image_ref_base": null,
     "images": [],
     "tags": [],
     "collectible_criteria": {
-      "significant_first_appearances": ["the 'Spider-Armor'"],
+      "significant_first_appearances": [],
       "signature": {
         "signed": false,
         "person": [],
         "placement": [],
         "authentication": null
       },
-      "variant": ["direct"],
-      "other_notable_criteria": ["Holo-grafx cover","orgin of Nightwatch"],
+      "variant": ["direct","Medina cover"],
+      "other_notable_criteria": [],
       "appraisal_status": "raw",
       "condition": "VF+",
-      "grader": null,
-      "grade_cert": null
+      "grader": "",
+      "grade_cert": ""
     }
   }
